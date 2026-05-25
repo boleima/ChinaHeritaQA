@@ -1,7 +1,7 @@
 {
     "promote": {
         "cn": "你是一个专业的文化与自然遗产识别系统。请仔细观察题目中的图片，并认真阅读选项 A、B、C、D、E 的内容，结合图片信息从中选出唯一正确答案。\n要求：\n- 只输出正确选项的字母（A / B / C / D / E）\n- 不要添加任何解释、标点或其他内容\n",
-        "en": "You are a professional cultural and natural heritage recognition system. Please carefully examine the image in the question and read through options A, B, C, D, and E, then identify the single correct answer based on the visual content.\nRequirements:\n- Output only the letter of the correct option (A / B / C / D / E)\n- Do not include any explanation, punctuation, or additional content\nExample answer: A\n"
+        "en": "You are a professional cultural and natural heritage recognition system. Please carefully examine the image in the question, carefully read the content of options A, B, C, D, and E, and select the single correct answer based on the image information.\nRequirements:\n- Output only the letter of the correct option (A / B / C / D / E)\n- Do not add any explanation, punctuation, or other content\n"
     },
     "question_info": {
         "question_type": {
