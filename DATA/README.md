@@ -6,8 +6,8 @@ This folder contains all metadata and example data for the ChinaHeritaQA benchma
 
 | File / Folder | Description |
 |---|---|
-| `heritage_meta_weibo_V1.json` | Metadata for 51 Chinese UNESCO World Heritage Sites |
-| `world_heritage_info_V1.json` | Metadata for 23 non-Chinese heritage sites (distractors) |
+| `heritage_meta_weibo_V1.json` | Metadata for Chinese UNESCO World Heritage Sites |
+| `world_heritage_info_V1.json` | Metadata for non-Chinese heritage sites (distractors) |
 | `heritage_city.json` | Heritage sites indexed by province |
 | `heritage_type.json` | Heritage sites indexed by type |
 | `dynast_list_V1.json` | Chinese dynasties and European historical eras |

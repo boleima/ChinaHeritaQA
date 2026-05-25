@@ -1,6 +1,6 @@
 # ChinaHeritaQA
 
-**ChinaHeritaQA** is a bilingual (Chinese / English) visual question answering benchmark for evaluating vision-language models' (VLMs) ability to recognise and understand **Chinese UNESCO World Heritage Sites**. The dataset covers 51 Chinese heritage sites and 23 non-Chinese sites as distractors, with images sourced from real social-media posts (Weibo).
+**ChinaHeritaQA** is a bilingual (Chinese / English) visual question answering benchmark for evaluating vision-language models' (VLMs) ability to recognise and understand **Chinese UNESCO World Heritage Sites**. The dataset covers Chinese UNESCO World Heritage Sites and non-Chinese sites as distractors, with images sourced from real social-media posts (Weibo).
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Item | Details |
 |------|---------|
-| Chinese heritage sites | 58 |
+| Chinese heritage sites | 51 |
 | Non-Chinese sites (distractors) | 23 |
 | Question types | 7 (q1 – q7) |
 | Questions per type | 1,370 – 2,279 |
