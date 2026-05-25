@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="DATA/Images/Image_data/Ancient_Building_Complex_in_the_Wudang_Mountains/5119769210784553_1.jpg" width="220"/><br><sub>Ancient Building Complex in the Wudang Mountains</sub></td>
-    <td align="center"><img src="DATA/Images/Image_data/Ancient_Building_Complex_in_the_Wudang_Mountains/5138789379083629_3.jpg" width="220"/><br><sub>Ancient Building Complex in the Wudang Mountains</sub></td>
+    <td align="center"><img src="DATA/Images/Image_data/Ancient_Building_Complex_in_the_Wudang_Mountains/5206045443491227_7.jpg" width="220"/><br><sub>Ancient Building Complex in the Wudang Mountains</sub></td>
+    <td align="center"><img src="DATA/Images/Image_data/Ancient_Building_Complex_in_the_Wudang_Mountains/5118017971685704_7.jpg" width="220"/><br><sub>Ancient Building Complex in the Wudang Mountains</sub></td>
     <td align="center"><img src="DATA/Images/worlds_data/Archaeological_Areas_of_Pompei/3.jpg" width="220"/><br><sub>Archaeological Areas of Pompei (non-Chinese distractor)</sub></td>
   </tr>
 </table>
