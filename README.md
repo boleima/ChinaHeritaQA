@@ -46,7 +46,7 @@ Option A  Correct answer
 Option B  Same heritage type  (e.g. both classified as "ancient city")
 Option C  Same province as the correct site
 Option D  Any other Chinese heritage site
-Option E  Non-Chinese World Heritage Site
+Option E  Non-Chinese World Heritage Site (out of domain distractor)
 ```
 
 ---
