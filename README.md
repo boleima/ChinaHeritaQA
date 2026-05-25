@@ -58,7 +58,7 @@ ChinaHeritaQA/
 ├── config.py                          # ← Edit only this file (MODEL_ROOT and BIG_DISK_ROOT)
 │
 ├── DATA/
-│   ├── heritage_meta_weibo_V1.json    # Metadata for 58 Chinese heritage sites
+│   ├── heritage_meta_weibo_V1.json    # Metadata for 51 Chinese heritage sites
 │   ├── world_heritage_info_V1.json    # Metadata for 23 non-Chinese heritage sites
 │   ├── heritage_city.json             # Heritage sites indexed by province
 │   ├── heritage_type.json             # Heritage sites indexed by type
@@ -66,7 +66,7 @@ ChinaHeritaQA/
 │   ├── heritage_brief_intro.json      # Brief descriptions (used by q3)
 │   ├── quesion_info/                  # Generated question JSONs (q1.json … q7.json)
 │   ├── question_results/              # Evaluation outputs (one .xlsx per model × type × language)
-│   └── Images/
+│   └── Images/                        # sample Images
 │       ├── Image_data/<site_name>/    # Chinese heritage site images (Weibo)
 │       └── worlds_data/<site_name>/   # Non-Chinese heritage site images
 │

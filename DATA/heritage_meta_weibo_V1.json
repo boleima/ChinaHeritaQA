@@ -396,60 +396,6 @@
             "Ancient_City_of_Ping_Yao\\5222171031111443_1.jpg"
         ]
     },
-    "Ancient_Villages_in_Southern_Anhui_Xidi_and_Hongcun": {
-        "Name": {
-            "cn": "皖南古村落－西递、宏村（2000年）",
-            "en": "Ancient Villages in Southern Anhui – Xidi and Hongcun"
-        },
-        "City": {
-            "cn": "安徽省黄山市",
-            "en": "Huangshan City, Anhui Province"
-        },
-        "Dynast": {
-            "cn": "明朝(1368年 - 1644年)",
-            "en": "Ming Dynasty (1368-1644)"
-        },
-        "Type": {
-            "cn": "文化",
-            "en": "culture"
-        },
-        "History_background": {
-            "cn": "14至20世纪安徽村落原始风貌",
-            "en": "Original features of Anhui villages from the 14th to the 20th centuries"
-        },
-        "Main_function": {
-            "cn": "传统村落，展示徽文化",
-            "en": "Traditional villages showcasing Hui culture"
-        },
-        "BUilding_use": {
-            "cn": "居民生活和商业活动",
-            "en": "Residential life and commercial activities"
-        },
-        "Brief_intro": {
-            "cn": "以商业活动为主要收入来源，家庭和氏族社会组织，以其区域文化闻名。整体布局、景观、建筑形态、装饰和施工技术均保留了14至20世纪安徽村庄的原始特征。",
-            "en": "Supported primarily by commercial activities and organized around family and clan social structures, these villages are renowned for their regional culture. Their overall layouts, landscapes, architectural forms, decorative styles, and construction techniques faithfully preserve the original character of Anhui villages from the 14th to the 20th century."
-        },
-        "Standard": [
-            {
-                "cn": "西递村和宏村是封建时期建立在繁荣的贸易经济基础上的人类聚落的典型例子。",
-                "en": "Xidi Village and Hongcun Village are typical examples of human settlements built on a prosperous trade economy during the feudal period."
-            },
-            {
-                "cn": "安徽南部这两个村庄的建筑和街道格局反映了中国历史上长期定居时期的社会经济结构。",
-                "en": "The architecture and street layout of these two villages in southern Anhui reflect the socio-economic structure of China during a long period of settlement in history."
-            },
-            {
-                "cn": "中国传统的非城市聚落，在过去一个世纪中很大程度上已经消失，但在西递和宏村的村庄里却保存得异常完好。",
-                "en": "Traditional non-urban settlements in China have largely disappeared over the past century, but they have been remarkably well preserved in the villages of Xidi and Hongcun."
-            }
-        ],
-        "Description": {
-            "cn": "西递和宏村是位于安徽省黄山市义县的两个杰出的传统村落，以商业活动为主要收入来源，社会组织以家族和宗族为基础，并以其独特的地域文化而闻名。其整体布局、景观、建筑形式、装饰和建造技术均保留了14至20世纪安徽村落的原始风貌。西递和宏村深受安徽近代以前传统文化的影响，由功成名就的官员或商人从官府或经商归来后兴建，逐渐发展成为中国传统村落建设的典范。西递群山环绕，依三条东西走向的溪流而建，南面汇聚于惠源桥。宏村则位于山脚下，溪水潺潺流淌，形成两个水池：村中心的月亮池和南面的池塘。村落空间韵律优美，巷道幽静，水源来自风景如画的园林，整体体现了人与自然和谐共生的理念。建筑风格独特而精致，以朴素雅致的色彩为主，山墙雕刻精美雅致，室内陈设雅致考究。森严的父权制度与温和真诚的民俗风情，反映了封建社会士大夫的文化思想，他们对儒家和新儒家思想推崇备至。这些幸存下来的村落拥有六百多年的历史，蕴含着丰富的科学、文化和美学价值，是研究区域历史和文化的宝贵资料。",
-            "en": "Xidi and Hongcun are two outstanding traditional villages, located in Yi County, Huangshan City in south Anhui Province, with commercial activities as their primary source of income, family and clan-based social organization, and well known for their regional culture. The overall layout, landscape, architectural form, decoration, and construction techniques all retain the original features of Anhui villages between the 14th and 20th centuries.Deeply influenced by the traditional culture of pre-modern Anhui Province, these two villages, Xidi and Hongcun, were built by successful officials or merchants returning home from official appointments and business, and gradually developed into models of conventional Chinese village construction. Xidi is surrounded by mountains and built along and between three streams running east-west, which converge at the Huiyuan Bridge to the south. Hongcun is located at the foot of a hill next to a stream which forms two pools, the Moon Pond in the centre of the village and the other to the south. Characterised by rhythmic space variation and tranquil alleyways; and with water originating from a picturesque garden, the whole reflects the pursuit of coexistence, unity and the harmony of man and nature. The unique and exquisite style of Anhui buildings is conveyed in plain and elegant colors, their gables decorated with delicate and elegant carvings, their interiors filled with tasteful furnishings. The rigid patriarchal system together with gentle and sincere folk customs reflects the cultural ideas of scholar-bureaucrats in feudal society who paid special respect to Confucianism and Neo-Confucianism. These surviving villages bear scientific, cultural and aesthetic values with their 600-plus-year history. They are rich sources for the study of regional histories and cultures."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
-    },
     "Archaeological_Ruins_of_Liangzhu_City": {
         "Name": {
             "cn": "良渚古城遗址",
@@ -2334,64 +2280,6 @@
             "Longmen_Grottoes\\5222182735053470_9.jpg"
         ]
     },
-    "Lushan_National_Park": {
-        "Name": {
-            "cn": "庐山国家公园",
-            "en": "Lushan National Park"
-        },
-        "City": {
-            "cn": "江西省九江市",
-            "en": "Jiujiang City, Jiangxi Province"
-        },
-        "Dynast": {
-            "cn": "无具体朝代",
-            "en": "No specific dynasty"
-        },
-        "Type": {
-            "cn": "文化",
-            "en": "culture"
-        },
-        "History_background": {
-            "cn": "两千多年吸引众多名人，文化中心",
-            "en": "For over two thousand years, it has attracted numerous celebrities and served as a cultural center."
-        },
-        "Main_function": {
-            "cn": "旅游观光、文化教育中心",
-            "en": "Tourism and cultural education center"
-        },
-        "BUilding_use": {
-            "cn": "寺庙、书院、别墅等多功能用途",
-            "en": "Multifunctional uses such as temples, academies, and villas"
-        },
-        "Brief_intro": {
-            "cn": "集自然美景与丰富历史文化于一体，拥有众多历史建筑和寺院，是中国山水文化与中西文化交融的代表性景区。",
-            "en": "Combining spectacular natural scenery with rich historical and cultural heritage, Lushan National Park features numerous historic buildings and monasteries, and stands as a representative landscape of Chinese nature culture and the convergence of Eastern and Western cultural traditions."
-        },
-        "Standard": [
-            {
-                "cn": "庐山风景名胜区寺庙和教育建筑的建造和布局，形成了从公元前3世纪末汉代到20世纪初漫长时期内价值观交流的文化景观。",
-                "en": "The construction and layout of temples and educational buildings in the Lushan Scenic Area formed a cultural landscape of value exchange over a long period from the late 3rd century BC (Han Dynasty) to the early 20th century."
-            },
-            {
-                "cn": "庐山山水激发了哲学和艺术的灵感。将优质文化遗产有选择、有意识地融入这片山水之中，充分体现了中国人对自然美景与文化和谐共生的欣赏。",
-                "en": "The landscape of Mount Lu has inspired philosophy and art. The selective and conscious integration of high-quality cultural heritage into this landscape fully reflects the Chinese people&#39;s appreciation for the harmonious coexistence of natural beauty and culture."
-            },
-            {
-                "cn": "白鹿洞书院的古建筑群是中国传统书院建筑的典范。观音桥是一座榫卯结构的石拱桥，在中国桥梁建造史上占有举足轻重的地位。现代别墅群则见证了19世纪末至20世纪中叶西方文化对中国内陆地区的渗透。",
-                "en": "The ancient architectural complex of Bailudong Academy is a model of traditional Chinese academy architecture. Guanyin Bridge is a stone arch bridge with mortise and tenon joints, holding a pivotal position in the history of Chinese bridge construction. The modern villa complex bears witness to the penetration of Western culture into inland China from the late 19th to the mid-20th century."
-            },
-            {
-                "cn": "慧远在庐山东林寺创立净土宗，开启了佛教在中国本土化的时代。朱熹重振白鹿洞书院，使其成为宋明儒家唯心主义思想普及的典范，以及书院教育的典范。他的影响在宋代之后持续了七百余年。朱熹诠释的儒家唯心主义思想及其教育模式远播日本、韩国、印度尼西亚等地，在全球教育史上扮演了极其重要的角色。",
-                "en": "Huiyuan founded the Pure Land School at Donglin Temple on Mount Lu, ushering in an era of Buddhism&#39;s localization in China. Zhu Xi revitalized the White Deer Grotto Academy, making it a model for the popularization of Song-Ming Confucian idealism and a paradigm of academy education. His influence lasted for over seven hundred years after the Song Dynasty. Zhu Xi&#39;s interpretation of Confucian idealism and his educational model spread to Japan, Korea, Indonesia, and other places, playing an extremely important role in the history of global education."
-            }
-        ],
-        "Description": {
-            "cn": "庐山位于江西省九江市。庐山国家公园总面积30200公顷，最高峰汉阳峰海拔1474米。庐山北临长江，南濒鄱阳湖，江、山、湖三景浑然一体，两千多年来，其秀丽风光吸引着无数精神领袖、学者、艺术家和作家。庐山国家公园内拥有200多座历史建筑，这些经多次重建和扩建的寺院群，构成了一个持续至今的学习和宗教中心。其中包括始建于公元386年的慧远东林寺；始建于公元730年左右的西林塔；唐代建造的清静寺曾是道教经典的存放地；白鹿洞书院始建于公元940年，后于12世纪末宋代朱熹时期复兴，朱熹大力弘扬孔子的政治伦理思想。此后，该建筑群不断扩建，直至19世纪，囊括了众多寺庙、书院和图书馆。其他重要景点还包括建于公元1015年的单跨石桥——观音桥，以及遍布悬崖峭壁和石碑的900余处碑文。此外，19世纪末20世纪初，随着该地区成为热门度假胜地，中国和外国游客在此建造了约600座别墅。20世纪30年代至40年代，这里曾是中华民国的官方避暑胜地。这些别墅风格各异，布局也符合当时盛行的西方规划理念。庐山在中国历史文化中占有举足轻重的地位。它是中国山水文化的杰出代表，也是中国书院教育的典范，更是中西文化交融的汇聚点，曾是中国南方的文化中心。庐山历史上发生的重大文化发展和政治事件，对中国历史进程产生了深远的影响。庐山的自然美景与历史建筑和特色完美融合，形成独具特色的文化景观，蕴含着卓越的审美价值，与中国的精神文化生活紧密相连。庐山自然与文化的交融，代表着中华民族精神，是中华文化生活的缩影。",
-            "en": "Mount Lushan is located in Jiujiang City, Jiangxi Province. The property area of Lushan National Park occupies a total area of 30,200 hectaresand its highest Peak, Hanyang Peak, is 1,474 meters above sea level. Bordered on the north by the Yangtze River and on the south by Poyang Lake, Mount Lushan presents an integral scene of river, hills and lake, the beauty of which has attracted spiritual leaders, scholars, artists and writers for over 2,000 years. More than 200 historic buildings are located in the Lushan National Park; complexes of prayer halls that have been rebuilt and extended many times to create an ongoing centre for study and religion. These include the Buddhist East Grove Temple complex begun by Huiyuan in 386 CE; the West Grove Pagoda begun around 730 CE; the Temple of Simplicity and Tranquility built during the Tang dynasty as the repository of Taoist scriptures, and the White Deer Cave Academy originally established in 940 CE and revived in the late 12th century during the Song dynasty when Zhu Xi instigated the spread of Confucius’ political and ethical teaching. This complex continued to be extended up to the 19th century to include many temples, study halls and libraries. Other important features include the stone single-span Guan Ying Bridge of 1,015 CE and more than 900 inscriptions on cliffs and stone tablets. In addition there are around 600 villas built by Chinese and foreign visitors in the late 19th and 20th centuries, when the area became a popular resort and was, during the 1930s and 40s the official Summer Capital of the Republic of China.  The villas reflect various architectural fashions and are laid out within the landscape in accordance with Western planning concepts prevalent at the time.Mount Lushan has an important place in Chinese history and culture. It is an outstanding representative of Chinese landscape culture, as well as a remarkable model of Chinese academy-based education, and a focal point for the integration of Chinese and Western cultures, once acting as the cultural center of southern China. The significant cultural developments and political events occurring over the course of Lushan’s history have influenced the course of Chinese history.The natural beauty of Lushan is perfectly integrated with its historic buildings and features, creating a unique cultural landscape which embodies outstanding aesthetic value powerfully associated with Chinese spiritual and cultural life. Combining nature and culture, Mount Lushan represents the Chinese national spirit and epitomizes its cultural life."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
-    },
     "Mausoleum_of_the_First_Qin_Emperor": {
         "Name": {
             "cn": "秦始皇陵及兵马俑坑",
@@ -2976,64 +2864,6 @@
             "Quanzhou_Emporium_of_the_World_in_Song_Yuan_China\\5130314676968521_1.jpg"
         ]
     },
-    "Silk_Roads_the_Routes_Network_of_Chang_an_Tianshan_Corridor": {
-        "Name": {
-            "cn": "丝绸之路：长安—天山廊道的路网",
-            "en": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor"
-        },
-        "City": {
-            "cn": "",
-            "en": ""
-        },
-        "Dynast": {
-            "cn": "汉朝(公元前202年 - 公元220年)",
-            "en": "Han Dynasty (202 BC – 220 AD)"
-        },
-        "Type": {
-            "cn": "文化",
-            "en": "culture"
-        },
-        "History_background": {
-            "cn": "公元前2世纪贸易量大增",
-            "en": "Trade volume increased significantly in the 2nd century BC"
-        },
-        "Main_function": {
-            "cn": "促进东西方贸易和文化交流",
-            "en": "Promote trade and cultural exchange between East and West"
-        },
-        "BUilding_use": {
-            "cn": "遗址多为贸易、宗教、军事用途",
-            "en": "The sites were mostly used for trade, religion, and military purposes."
-        },
-        "Brief_intro": {
-            "cn": "连接中国与中亚、西亚等地的重要古代贸易通道，促进了经济、文化和宗教的发展，沿线分布有驿站、寺庙、城镇等遗址，见证了多种文明的交流与融合。",
-            "en": "An important ancient trade route connecting China with Central and West Asia, these roads facilitated economic, cultural, and religious exchange. Relay stations, temples, and town sites along the route bear witness to the meeting and merging of multiple civilizations."
-        },
-        "Standard": [
-            {
-                "cn": "大陆路线网络的庞大、超长的使用时间、遗产遗迹的多样性及其动态的相互联系、它们所促进的文化交流的丰富性、它们所连接和穿越的各种地理环境，清楚地表明了公元前 2 世纪至公元 16 世纪欧亚大陆上各个文化区域，特别是游牧草原和定居的农业/绿洲/畜牧文明之间发生的广泛互动。",
-                "en": "The vastness and long period of use of the continental route network, the diversity of its heritage sites and their dynamic interconnections, the richness of cultural exchanges they facilitated, and the various geographical environments they connected and traversed clearly demonstrate the extensive interactions that occurred between different cultural regions of Eurasia from the 2nd century BCE to the 16th century CE, particularly between nomadic steppe and settled agricultural/oasis/pastoral civilizations."
-            },
-            {
-                "cn": "天山走廊见证了公元前 2 世纪至公元 16 世纪欧亚大陆经济和文化交流的传统以及社会发展。",
-                "en": "The Tianshan Corridor bears witness to the traditions of economic and cultural exchange and social development across Eurasia from the 2nd century BC to the 16th century AD."
-            },
-            {
-                "cn": "天山走廊是高价值长途贸易促进城镇发展的杰出范例，这些城镇发展得益于精心设计的复杂水利系统，该系统从河流、水井和地下泉水收集水，供居民、旅行者和农作物灌溉使用。",
-                "en": "The Tianshan Corridor is an outstanding example of how high-value long-distance trade promotes urban development, which benefits from a sophisticated and well-designed water system that collects water from rivers, wells, and underground springs for use by residents, travelers, and crops."
-            },
-            {
-                "cn": "天山走廊与张骞西域之行直接相关，这是欧亚大陆人类文明史和文化交流史上的一个里程碑事件。它也深刻地反映了佛教对古代中国的实际影响，而佛教对东亚文化产生了重大影响。此外，天山走廊还促进了景教（公元500年传入中国）、摩尼教、琐罗亚斯德教和早期伊斯兰教的传播。走廊沿线的许多城镇也以独特的方式体现了沿途传播的思想的影响，包括水力利用、建筑和城市规划等方面。",
-                "en": "The Tianshan Corridor is directly related to Zhang Qian&#39;s journey to the Western Regions, a milestone in the history of human civilization and cultural exchange across Eurasia. It also profoundly reflects the actual influence of Buddhism on ancient China, and Buddhism&#39;s significant impact on East Asian culture. Furthermore, the Tianshan Corridor facilitated the spread of Nestorianism (introduced to China around 500 AD), Manichaeism, Zoroastrianism, and early Islam. Many towns along the corridor also uniquely reflect the influence of the ideas spread along the way, including in areas such as water management, architecture, and urban planning."
-            }
-        ],
-        "Description": {
-            "cn": "丝绸之路是一张环环相扣的路线网络，连接着亚洲、次大陆、中亚、西亚和近东的古代社会，促进了世界众多伟大文明的发展。它是世界上最杰出的长途交通网络之一，直线距离约7500公里，而沿特定路线延伸超过35000公里。虽然其中一些路线已经使用了数千年，但到了公元前2世纪，贸易量大幅增长，东西方之间高价值商品的长途贸易也日益频繁。这些贸易活动的政治、社会和文化影响对所有与之相关的社会都产生了深远的影响。这些路线主要用于运输原材料、食品和奢侈品。一些地区垄断了某些材料或商品，尤其是中国，它向中亚、次大陆、西亚和地中海地区供应丝绸。许多高价值的贸易商品需要长途运输——通过驮畜和船只——而且很可能是由许多不同的商人经手的。天山走廊是庞大的丝绸之路网络的一部分。它绵延约5000公里，包含着一个复杂的贸易路线网络，总长约8700公里。该网络于公元前2世纪至公元1世纪发展起来，连接中国中部的长安和中亚腹地。当时，中国和罗马帝国之间，特别是丝绸等高价值商品的长途贸易开始兴起。天山走廊在公元6世纪至14世纪期间蓬勃发展，并一直作为一条重要的贸易路线使用到16世纪。沿途极端的地理环境生动地展现了长途贸易所面临的挑战。这些路线最低海拔低于海平面154米，最高海拔达7400米，途经大河、高山湖泊、坚硬的盐滩、广袤的沙漠、白雪皑皑的山峰和肥沃的草原。气候也从极端干旱到半湿润不等；植被覆盖范围广泛，包括温带森林、温带沙漠、温带草原、高山草原和绿洲。天山走廊的路线始于汉唐时期中国的中心都城长安，位于黄土高原之上。这条路线向西延伸，途经河西走廊，翻越秦岭和祁连山，到达敦煌的玉门关。从楼兰/哈密出发，路线继续沿着天山南北两麓行进，穿过隘口，最终抵达中亚哲特地区的伊犁、楚河和塔拉斯河谷，连接起丝绸之路贸易的两大强权中心。长城走廊沿线共有33处遗址，包括各帝国和汗国的都城宫殿群、贸易定居点、佛教石窟寺、古道、驿站、关隘、烽火台、长城残段、防御工事、陵墓和宗教建筑。中华帝国建立的驿站和烽火台体系促进了贸易，而哲特苏地区各诸侯国设立的堡垒、驿站和中转站体系也发挥了重要作用。长安及其周边地区一系列宫殿反映了中华帝国1200多年来的权力中心地位；而楚河谷的城市则见证了9至14世纪哲特苏地区的权力中心及其对长途贸易的组织。从西部的库车（今库车县）到东部的洛永，一系列佛教宝塔和大型精美的石窟寺庙绵延分布，记录了佛教经喀喇昆仑从印度向东传播的过程，也展现了佛塔设计在吸收当地文化理念后的演变。这些建筑的精美程度反映了地方政府和中国中央政府的资助、富商的捐赠，以及沿途僧侣的影响——许多僧侣的游历记录可追溯至公元前2世纪。其他宗教建筑则反映了走廊沿线多种宗教（以及多个民族）的共存，包括琐罗亚斯德教（哲特苏地区粟特人的主要宗教）、摩尼教（楚河谷、柘河谷、高梭城和洛永）、景教（高梭城、新疆周边地区和长安）以及伊斯兰教（布拉那）。大规模的贸易活动催生了繁荣昌盛的大型城镇，这些城镇也以多种方式反映了定居社群与游牧社群之间的互动：例如，在哲特苏地区，游牧民族与农民以及不同民族（如突厥人和粟特人）之间存在着相互依存的关系；在天山地区，游牧社群逐渐转变为定居社群，形成了独特的建筑和规划，例如半地下建筑；在和西走廊，公元前1世纪之后，这条绵延1000英里的走廊作为农业要塞，经过规划扩张，最终发展成为定居农业社群。多样化的大型水利系统对于促进城镇、贸易定居点、堡垒和商队驿站的发展以及支撑这些发展所需的农业至关重要，例如，在极其干旱的吐鲁番盆地，许多坎儿井地下水渠至今仍在使用，为高朝城供水，而雅尔城内的深井则作为补充水源。沿河西走廊分布着规模宏大的明渠和沟渠网络，将河水引至居民点，其中在锁阳市附近仍保留着 90 公里；而在哲州地区，河水通过运河和管道进行分配，并被收集到水库中。除了作为货物和人员的运输通道外，这些路线还促进了思想、信仰和技术创新（例如与建筑和城市规划相关的创新）的非凡流动，这些创新在许多根本方面塑造了城市空间和人们的生活。",
-            "en": "The Silk Roads were an interconnected web of routes linking the ancient societies of Asia, the Subcontinent, Central Asia, Western Asia and the Near East, and contributed to the development of many of the world's great civilizations. They represent one of the world’s preeminent long-distance communication networks stretching as the crow flies to around 7,500 km but extending to in excess of 35,000 km along specific routes. While some of these routes had been in use for millennia, by the 2nd century BC the volume of exchange had increased substantially, as had the long distance trade between east and west in high value goods, and the political, social and cultural impacts of these movements had far-reaching consequences upon all the societies that encountered them.The routes served principally to transfer raw materials, foodstuffs, and luxury goods. Some areas had a monopoly on certain materials or goods: notably China, who supplied Central Asia, the Subcontinent, West Asia and the Mediterranean world with silk. Many of the high value trade goods were transported over vast distances – by pack animals and river craft – and probably by a string of different merchants.The Tian-shan corridor is one section or corridor of this extensive overall Silk Roads network. Extending across a distance of around 5,000 km, it encompassed a complex network of trade routes extending to some 8,700 km that developed to link Chang’an in central China with the heartland of Central Asia between the 2nd century BC and 1st century AD, when long distance trade in high value goods, particularly silk, started to expand between the Chinese and Roman Empires. It flourished between the 6th and 14th century AD and remained in use as a major trade route until the 16th century.The extremes of geography along the routes graphically illustrate the challenges of this long distance trade. Falling to 154 metres below sea level and rising to 7,400 metres above sea level, the routes touch great rivers, alpine lakes, crusty salt flats, vast deserts, snow-capped mountains and ‘fecund’ prairies. The climate varies from extreme drought to semi-humid; while vegetation covers temperate forests, temperate deserts, temperate steppes, alpine steppes and oases.Starting on the Loess plateau at Chang’an, the central capital of China in the Han and Tang Dynasties, the routes of the Tian-shan corridor passed westwards through the Hosi Corridor across the Qin and Qilian Mountains to the Yumen Pass of Dunhuang. From Loulan/Hami, they continued along the northern and southern flanks of the Tian-shan Mountain and then through passes to reach the Ili, Chuy and Talas valleys in the Zhetysu Region of Central Asia, linking two of the great power centres that drove the Silk Roads trade.Thirty-three sites along the corridor include capital cities palace complexes of various empires and Khan Kingdoms, trading settlements, Buddhist cave temples, ancient paths, posthouses, passes, beacon towers, sections of the Great Wall, fortifications, tombs and religious buildings. The formal system of posthouses and beacon towers provided by the Chinese Empire facilitated trade, as did the system of forts, caravanserai and way stations operated by states in the Zhetysu region. In and around Chang’an, a succession of palaces reflect the power centre of the Chinese Empire over 1,200 years; while the cities of the Chuy valley are witness to the power centre of the Zhetysu region from the 9th to the 14th centuries and their organisation of the long distance trade.The series of Buddhist pagodas and large, elaborate cave temples extending from Kucha (now Kuqa County) in the west to Luoyong in the east, record the eastward transmission of Buddhism from India via Karakorum, and demonstrate an evolution in the design of stupas as local ideas were absorbed. Their elaboration reflects the sponsorship of local authorities and the central Chinese imperial government as well as donations of wealthy merchants, and the influence of monks that travelled the routes, many of whose journeys were documented from 2nd century BC onwards. Other religious buildings reflect the co-existence of many religions (as well as many ethnic groups) along the corridor including Zoroastrianism, the main religion of the Sogdians of Zhetysu region, Manichaeism in the Chuy and Talas valleys and in Qocho city and Luoyong, Nestorian Christianity also in Qocho city, around Xinjiang and in Chang’an, and Islam in Burana.The massive scale of the trading activities fostered large, prosperous and thriving towns and cities that also reflect the interface between settled and nomadic communities in a variety of ways: the mutual inter-dependence of nomads and farmers and different peoples such as between Turks and Sogdians in the Zhetysu region; the transformation of nomadic communities to settled communities in the Tian-shan mountains, resulting in highly distinctive construction and planning such as semi-underground buildings; and in the Hosi corridor the planned agricultural expansion of the 1,000 mile corridor after the 1st century BC as an agricultural garrison and its transformation to settled agricultural communities. Diverse and large scale water management systems were essential to facilitate the growth of towns, trading settlements, forts, and caravanserai and the agriculture necessary to support them, such as the extensive Karez underground water channels of the extremely arid Turpan basin, many still in use, that supplied water to Qocho city, and were supplemented by deep wells inside Yar city;  the grand scale of the network of open canals and ditches along the Hosi corridor that drew river water to the settlements, 90 km of which survive around Suoyang city; and in the Zhetsyu region, river water  distribution through canals and pipes and collection in reservoirs.As well as conduits for goods and people, the routes allowed the exceptional flow of ideas, beliefs and technological innovations such as those related to architecture and town planning that shaped the urban spaces and peoples’ lives in many fundamental ways."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
-    },
     "Site_of_Xanadu": {
         "Name": {
             "cn": "元上都遗址",
@@ -3331,60 +3161,6 @@
             "Temple_of_Heaven_an_Imperial_Sacrificial_Altar_in_Beijing\\5216627076633179_5.jpg"
         ]
     },
-    "The_Grand_Canal": {
-        "Name": {
-            "cn": "大运河",
-            "en": "The Grand Canal"
-        },
-        "City": {
-            "cn": "",
-            "en": ""
-        },
-        "Dynast": {
-            "cn": "隋朝(581年 - 618年)",
-            "en": "Sui Dynasty (581-618)"
-        },
-        "Type": {
-            "cn": "文化",
-            "en": "culture"
-        },
-        "History_background": {
-            "cn": "始建于公元前5世纪，隋朝统一修建",
-            "en": "Originally built in the 5th century BC, it was unified and constructed during the Sui Dynasty."
-        },
-        "Main_function": {
-            "cn": "帝国内陆交通与物资运输",
-            "en": "Imperial Inland Transportation and Material Transport"
-        },
-        "BUilding_use": {
-            "cn": "内河航运与粮食运输",
-            "en": "Inland waterway shipping and grain transport"
-        },
-        "Brief_intro": {
-            "cn": "是世界最大古代土木工程，连接南北，保障经济繁荣与国家统一。",
-            "en": "The largest ancient civil engineering project in the world, the Grand Canal connects north and south China and has long served to underpin economic prosperity and national unity."
-        },
-        "Standard": [
-            {
-                "cn": "大运河是人类历史上最伟大的水利工程杰作，其历史悠久，规模宏大，历经岁月洗礼不断发展演变，并不断适应环境变化。它充分展现了人类的智慧、决心和勇气。大运河是人类创造力的杰出典范，体现了源自古代中国的庞大农业帝国在技术能力和水文方面的造诣。",
-                "en": "The Grand Canal is one of the greatest hydraulic engineering masterpieces in human history. With a long history and grand scale, it has continuously evolved and adapted to environmental changes over time. It fully demonstrates human wisdom, determination, and courage. The Grand Canal is an outstanding example of human creativity, reflecting the technological capabilities and hydrological expertise of the vast agricultural empire originating from ancient China."
-            },
-            {
-                "cn": "大运河见证了草运体系独特的运河管理文化传统，包括其起源、兴盛、对历代朝代及其都城的适应，以及最终在20世纪的消亡。它构成了帝国对粮食、盐和铁的运输和储存的垄断，以及一套税收体系。它促进了农民经济、皇室以及民众和军队粮食供应之间的根本联系。它历来是中华帝国稳定的因素。大运河沿线的经济和城市发展见证了伟大农业文明的核心运作，以及水路网络发展在其中发挥的决定性作用。",
-                "en": "The Grand Canal bears witness to the unique canal management culture of the grassland transport system, including its origins, prosperity, adaptation to successive dynasties and their capitals, and its eventual demise in the 20th century. It constituted the empire&#39;s monopoly on the transport and storage of grain, salt, and iron, as well as a tax system. It fostered fundamental links between the peasant economy, the imperial court, and the food supply for the people and the army. It was historically a factor in the stability of the Chinese empire. The economic and urban development along the Grand Canal testifies to the core operations of a great agricultural civilization and the decisive role played in the development of waterway networks."
-            },
-            {
-                "cn": "大运河是世界上最长、最古老的运河。它见证了水利工程早期卓越的发展。它是工业革命前一项重要的技术成就。大运河在应对复杂的自然条件方面堪称典范，其众多建筑都充分适应了各种复杂多样的环境。它充分展现了东方文明的技术能力。大运河包含了重要的、创新的、尤其是早期的水利技术实例。它还体现了建造堤坝、堰和桥梁方面的特殊技艺，以及对石材、夯土等材料的独创性和精湛运用，以及对粘土和稻草等混合材料的巧妙运用。",
-                "en": "The Grand Canal is the world&#39;s longest and oldest canal. It bears witness to the remarkable development of early hydraulic engineering and represents a significant technological achievement before the Industrial Revolution. The Grand Canal is exemplary in its ability to cope with complex natural conditions, with many of its structures perfectly adapted to diverse environments. It fully demonstrates the technological capabilities of Eastern civilization. The Grand Canal contains important, innovative, and especially early examples of hydraulic engineering. It also embodies special skills in constructing dams, weirs, and bridges, as well as the originality and exquisite use of materials such as stone and rammed earth, and the ingenious application of mixtures such as clay and straw."
-            }
-        ],
-        "Description": {
-            "cn": "京杭大运河在中国东北和中东部平原形成了一个庞大的内河水系，贯穿中国现今的八个省份。它北起首都北京，南至浙江省。大运河始建于公元前5世纪，分段修建，并于公元7世纪隋朝首次被构想为帝国统一的交通要道。这催生了一系列规模宏大的工程，使其成为工业革命前世界上规模最大、范围最广的土木工程项目。历代朝代不断完善和维护，京杭大运河成为帝国内陆交通系统的骨干。长期以来，曹运制度确保了运河的高效管理。曹运是帝国垄断粮食和战略物资运输、征税和交通管制的机构。该制度保障了粮食供应，满足了民众的粮食需求，实现了领土的统一管理，并便于军队的调动。大运河在13世纪（元朝）达到鼎盛时期，形成了一个由2000多公里人工水道组成的统一内河航运网络，连接了包括黄河和长江在内的中国五大流域。时至今日，它仍然是重要的国内交通要道，在漫长的历史中为保障中国的经济繁荣与稳定发挥了重要作用。",
-            "en": "The Grand Canal forms a vast inland waterway system in the north-eastern and central eastern plains of China, passing through eight of the country’s present-day provinces. It runs from the capital Beijing in the north to Zhejiang Province in the south. Constructed in sections from the 5th century BC onwards, it was conceived as a unified means of communication for the Empire for the first time in the 7th century AD (Sui Dynasty). This led to a series of gigantic worksites, creating the world’s largest and most extensive civil engineering project ensemble prior to the Industrial Revolution. Completed and maintained by successive dynasties, it formed the backbone of the Empire’s inland communications system. Its management was made possible over a long period by means of the Caoyun system, the imperial monopoly for the transport of grain and strategic raw materials, and for the taxation and control of traffic. The system enabled the supply of rice to feed the population, the unified administration of the territory, and the transport of troops. The Grand Canal reached a new peak in the 13th century (Yuan Dynasty), providing a unified inland navigation network consisting of more than 2,000 km of artificial waterways, linking five of the most important river basins in China, including the Yellow River and the Yangtze. Still a major means of internal communication today, it has played an important role in ensuring the economic prosperity and stability of China over the ages."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
-    },
     "The_Great_Wall": {
         "Name": {
             "cn": "长城",
@@ -3592,64 +3368,6 @@
             "West_Lake_Cultural_Landscape_of_Hangzhou\\5185732985489250_2.jpg",
             "West_Lake_Cultural_Landscape_of_Hangzhou\\5219376110241740_4.jpg"
         ]
-    },
-    "Yin_Xu": {
-        "Name": {
-            "cn": "殷墟",
-            "en": "Yin Xu"
-        },
-        "City": {
-            "cn": "河南省安阳市",
-            "en": "Anyang City, Henan Province"
-        },
-        "Dynast": {
-            "cn": "商朝(约公元前1600年 - 公元前1046年)",
-            "en": "The Shang Dynasty (c. 1600 BC – 1046 BC)"
-        },
-        "Type": {
-            "cn": "文化",
-            "en": "culture"
-        },
-        "History_background": {
-            "cn": "商朝潘庚迁都于此，历经255年",
-            "en": "Pan Geng of the Shang Dynasty moved the capital here, a period that lasted 255 years."
-        },
-        "Main_function": {
-            "cn": "古都城遗址，展示商代文明",
-            "en": "Ancient capital city ruins showcase Shang Dynasty civilization"
-        },
-        "BUilding_use": {
-            "cn": "宫殿、祠堂、陵墓、祭祀场所",
-            "en": "Palaces, ancestral halls, mausoleums, and sacrificial sites"
-        },
-        "Brief_intro": {
-            "cn": "中国最早的都城遗址，包含宫殿、祠堂和陵墓区，出土甲骨文、青铜器等，是中国早期文明的重要见证。",
-            "en": "The earliest known capital city site in China, Yin Xu encompasses palace, ancestral shrine, and royal tomb precincts, and has yielded oracle bone inscriptions and bronze artifacts that are among the most important material witnesses to early Chinese civilization."
-        },
-        "Standard": [
-            {
-                "cn": "殷叙，商朝晚期的都城，展现了中国古代青铜文化的重要影响交流和最高发展水平，包括文字体系。",
-                "en": "Yinxu, the capital of the late Shang Dynasty, showcases the significant influence and highest level of development of ancient Chinese bronze culture, including its writing system."
-            },
-            {
-                "cn": "殷旭遗址的文化遗存为商代晚期的文化传统提供了非凡的证据，并见证了许多科学技术成就和创新，例如太阳历和阴历系统，以及甲骨文中最早的系统性汉字书写证据。",
-                "en": "The cultural remains at the Yinxu site provide remarkable evidence of the cultural traditions of the late Shang Dynasty and bear witness to many scientific and technological achievements and innovations, such as the solar and lunar calendar systems, as well as the earliest systematic evidence of Chinese character writing in oracle bone inscriptions."
-            },
-            {
-                "cn": "殷旭的宫殿、祠堂和皇家陵墓是早期中国建筑的杰出代表，对确立中国宫殿建筑和皇家陵墓建筑群的早期原型具有重要意义。",
-                "en": "Yin Xu&#39;s palaces, ancestral halls, and royal tombs are outstanding representatives of early Chinese architecture and are of great significance in establishing the early prototypes of Chinese palace architecture and royal tomb complexes."
-            },
-            {
-                "cn": "殷旭遗址发现的物质遗存为中国文字和语言体系的早期历史、古代信仰、社会制度和重大历史事件提供了有形的证据，具有突出的普遍意义。",
-                "en": "The material remains discovered at the Yinxu site provide tangible evidence for the early history of Chinese writing and language systems, ancient beliefs, social systems, and major historical events, and have outstanding universal significance."
-            }
-        ],
-        "Description": {
-            "cn": "殷叙遗址位于中国中部河南省安阳市西北，环河两岸，距今已有1300年历史。遗址包括宫殿及皇家祠堂区和皇家陵寝区两部分，总面积414公顷，另有720公顷的缓冲区。历史文献、甲骨文和考古发掘均证实，殷叙是中国历史上最早的都城。公元前1300年左右，商朝第二十位君主潘庚将都城从燕迁至殷（今安阳市小屯村一带），建立了一座长久稳定的都城。殷叙历经255年，十二位君主，八代人，缔造了辉煌灿烂的殷商文明，其历史、艺术和科学价值无可估量。殷叙是最早拥有文明迹象的遗址，包括80多处夯土房屋地基及木结构遗迹、祖先祠堂和祭坛，这些遗址被防御壕沟环绕，壕沟也兼具防洪功能。宫殿区内众多坑穴中出土了刻有文字的甲骨文，被认为是已知最早的汉字证据。地势较高的皇家陵墓区内有祭祀坑，坑内有战车和被认为是祭祀牺牲者的遗骸。陪葬品包括装饰精美的青铜礼器、玉雕、骨雕和陶瓷器。作为中国早期最重要的都城之一，殷叙的规划布局对后世都城的建设和发展产生了深远的影响。殷叙王陵区是中国现存最早的大型皇家陵墓群，也是中国皇家陵寝体系的起源；甲骨文是中国已知最早的成熟文字，是商代历史的有力佐证，有助于追溯近千年前的中国历史；殷叙遗址则展现了商代晚期的社会生活，反映了高度发达的科学和建筑技术，包括青铜铸造和历法体系。",
-            "en": "Situated on both banks of the Huanhe River to the northwest of the nationally famous historic and cultural city Anyang, in Henan Province of central China, the archaeological remains of Yin Xu dated from 1,300 BCE and comprise two sites: the Palace and Royal Ancestral Shrines Area and the Royal Tombs Area covering a total 414 hectares with an enclosing buffer zone of 720 hectares. Yin Xu has been confirmed by historic documents, oracle bone inscriptions and archaeological excavations as the first site of a capital in Chinese history. The twentieth king of the Shang Dynasty Pan Geng, moved his capital from Yan to Yin (the area around Xiaotun Village of present Anyang) around 1,300 BC, and established a lasting and stable capital. It spanned 255 years with 12 kings and 8 generations and created the splendid and brilliant Yin-Shang Civilization, which is of priceless value in terms of history, art and science.Yin Xu was the earliest site to possess the elements of civilization, including more than 80 house foundations of rammed earth with remains of timber structures, ancestral shrines and altars enclosed within a defensive ditch which also functioned as a flood-control system. Numerous pits within the Palace area contained inscribed oracle bones considered to carry the earliest evidence of the Chinese written language. The Royal Tombs area on higher ground includes sacrificial pits containing chariots and human remains considered to have been sacrificial victims. Burial goods included decorated bronze ritual vessels, jade and bone carvings and ceramics.Being one of the most important capital sites in early China, its planning and layout had an important influence on the construction and development of subsequent capitals of China. The Royal Tomb Area of Yin Xu is the earliest large-scale royal graveyard in China and the source of China’s system of royal and imperial mausoleums;oracle bone inscriptions are the earliest known mature writing in China and constitute evidence for the history of the Shang Dynasty in China, helping to track recorded Chinese history nearly one thousand years earlier, and the Site of Yin Xu conveys the social life of the late Shang Dynasty, reflecting highly developed science and architectural technology including bronze casting and a calendar system."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
     },
     "Yungang_Grottoes": {
         "Name": {
@@ -4533,52 +4251,6 @@
             "Hubei_Shennongjia\\5222333449241926_2.jpg"
         ]
     },
-    "Jiuzhaigou_Valley_Scenic_and_Historic_Interest_Area": {
-        "Name": {
-            "cn": "九寨沟风景名胜区",
-            "en": "Jiuzhaigou Valley Scenic and Historic Interest Area"
-        },
-        "City": {
-            "cn": "四川省阿坝藏族羌族自治州",
-            "en": "Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province"
-        },
-        "Dynast": {
-            "cn": "无具体朝代",
-            "en": "No specific dynasty"
-        },
-        "Type": {
-            "cn": "自然",
-            "en": "nature"
-        },
-        "History_background": {
-            "cn": "none",
-            "en": "none"
-        },
-        "Main_function": {
-            "cn": "自然风光保护与观赏",
-            "en": "Natural landscape protection and appreciation"
-        },
-        "BUilding_use": {
-            "cn": "none",
-            "en": "none"
-        },
-        "Brief_intro": {
-            "cn": "以高山、湖泊、瀑布等秀丽的景色和风光的自然景观著称，是珍稀动植物的重要栖息地。",
-            "en": "Celebrated for its spectacular natural scenery of high mountains, multi-hued lakes, and cascading waterfalls, Jiuzhaigou Valley is an important habitat for rare and endangered flora and fauna."
-        },
-        "Standard": [
-            {
-                "cn": "九寨沟以其秀丽的景色和壮丽的风景而闻名。众多湖泊、瀑布和石灰岩梯田构成了如梦似幻的景观，清澈见底、富含矿物质的湖水，坐落在壮丽的高山之中，拥有高度多样化的森林生态系统，展现出非凡的自然美景。",
-                "en": "Jiuzhaigou is renowned for its stunning scenery and majestic landscapes. Numerous lakes, waterfalls, and limestone terraces create a dreamlike landscape. The crystal-clear, mineral-rich lakes, nestled amidst magnificent mountains, boast a highly diverse forest ecosystem, showcasing extraordinary natural beauty."
-            }
-        ],
-        "Description": {
-            "cn": "九寨沟风景名胜区是一处自然风光绝美的保护区，拥有壮丽的锯齿状高山，耸立于针叶林之上，环绕着如梦似幻的仙境般景色：清澈见底、色彩斑斓的蓝、绿、紫水潭、湖泊、瀑布、石灰岩梯田、溶洞等众多美景尽收眼底。这里喀斯特地貌丰富多样，堪称高山喀斯特水文研究的“天然 博物馆” 。九寨沟位于四川省北部，占地7.2万公顷，保存着一系列重要的森林生态系统，包括为大熊猫、羚牛等众多濒危动植物提供重要栖息地的原始森林。九寨沟南麓岷山山脉最高峰达4752米，还拥有大量保存完好的第四纪冰川遗迹，极具观赏价值。",
-            "en": "The Jiuzhaigou Valley Scenic and Historic Interest Area is a reserve of exceptional natural beauty with spectacular jagged alpine mountains soaring above coniferous forest around a fairyland landscape of crystal clear, strange-coloured blue, green and purplish pools, lakes, waterfalls, limestone terraces, caves and other beautiful features. These include a number of karst formations; indeed the area is a 'natural museum' for alpine karst hydrology and research. Covering 72,000 ha in the northern part of Sichuan Province, Jiuzhaigou preserves a series of important forest ecosystems including old-growth forests which provide important habitat for numerous threatened species of plants and animals, including the giant panda and takin. Attaining heights of 4,752 m in the southern Minshan Mountains, Jiuzhaigou also contains an important number of well-preserved quaternary glacial remnants with great scenic value."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
-    },
     "Migratory_Bird_Sanctuaries_along_the_Coast_of_Yellow_Sea_Bohai_Gulf_of_China": {
         "Name": {
             "cn": "中国黄（渤）海候鸟栖息地（第二期）",
@@ -4877,64 +4549,6 @@
             "South_China_Karst\\5203118381861362_3.jpg",
             "South_China_Karst\\5203118381861362_4.jpg"
         ]
-    },
-    "Three_Parallel_Rivers_of_Yunnan_Protected_Areas": {
-        "Name": {
-            "cn": "云南三江并流保护区",
-            "en": "Three Parallel Rivers of Yunnan Protected Areas"
-        },
-        "City": {
-            "cn": "云南省",
-            "en": "Yunnan Province"
-        },
-        "Dynast": {
-            "cn": "无具体朝代",
-            "en": "No specific dynasty"
-        },
-        "Type": {
-            "cn": "自然",
-            "en": "nature"
-        },
-        "History_background": {
-            "cn": "none",
-            "en": "none"
-        },
-        "Main_function": {
-            "cn": "自然遗产保护",
-            "en": "Natural Heritage Protection"
-        },
-        "BUilding_use": {
-            "cn": "none",
-            "en": "none"
-        },
-        "Brief_intro": {
-            "cn": "是中国生物多样性最丰富的地区, 涵盖了三大河流上游，拥有丰富地貌和生物多样性，是重要的自然遗产地。",
-            "en": "The most biologically diverse region in China, this protected area encompasses the upper reaches of three major rivers, featuring rich and varied landforms and extraordinary biodiversity, making it an outstanding natural heritage site."
-        },
-        "Standard": [
-            {
-                "cn": "金沙江、澜沧江和怒江三条河流的深邃平行峡谷是该遗产地最突出的自然特征；虽然这三条河流的大部分河段位于遗产地边界之外，但河谷景观仍然是该区域的主要景观元素。高山遍布，梅里雪山、白马雪山和哈巴雪山的冰川覆盖山峰构成了壮丽的天际线。明勇桥冰川是一处著名的自然奇观，它从川岳峰（海拔6740米）延伸至海拔2700米处，据称是北半球低纬度地区（北纬28°）下降到最低海拔的冰川。其他突出的景观地貌包括高山喀斯特地貌（特别是怒江峡上方月亮山风景区的“石月”）和高山丹霞的“龟甲”状风化地貌。",
-                "en": "The deep, parallel canyons of the Jinsha, Lancang, and Nujiang rivers are the most prominent natural feature of this heritage site; although most of these rivers lie outside the site&#39;s boundaries, the valley landscape remains a dominant element of the area&#39;s scenery. High mountains abound, with glaciers covering the Meili, Baima, and Haba Snow Mountains creating a magnificent skyline. The Mingyongqiao Glacier, a renowned natural wonder, extends from Chuanyue Peak (6740 meters) to 2700 meters, reportedly the lowest-altitude glacier in the low latitudes of the Northern Hemisphere (28°N). Other prominent landforms include alpine karst topography (particularly the &quot;Stone Moon&quot; in the Moon Mountain scenic area above the Nujiang Gorge) and the &quot;tortoise shell&quot; weathered landforms of alpine Danxia landforms."
-            },
-            {
-                "cn": "该地块具有卓越的价值，展现了过去五千万年来与印度板块与欧亚板块碰撞、古特提斯海闭合以及喜马拉雅山脉和青藏高原隆升相关的地质历史。这些是亚洲地表演化过程中的重大地质事件，并且至今仍在持续。地块内多种多样的岩石类型记录了这段历史，此外，高山带的喀斯特地貌、花岗岩巨石和丹霞砂岩地貌也堪称世界山地地貌中的佼佼者。",
-                "en": "This block is of exceptional value, showcasing the geological history of the past 50 million years related to the collision of the Indian and Eurasian plates, the closure of the Paleo-Tethys Sea, and the uplift of the Himalayas and the Tibetan Plateau. These are major geological events in the evolution of Asia, and their effects continue to this day. The diverse rock types within the block record this history; furthermore, its alpine karst landforms, granite megaliths, and Danxia sandstone formations are among the best in the world."
-            },
-            {
-                "cn": "三条平行河流区域生态过程的显著表现是地质、气候和地形等多种因素共同作用的结果。首先，该区域位于活跃的地形带内，因此拥有丰富的岩石基质，从火成岩（四种类型）到各种沉积岩，包括石灰岩、砂岩和砾岩。该区域地处板块碰撞点，因此地形特征极其多样，从峡谷到喀斯特地貌再到冰川覆盖的山峰，应有尽有。此外，该区域曾是更新世的避难所，并且位于生物地理汇聚带（即温带和热带气候特征交汇），所有这些因素共同造就了其生物多样性高度丰富的演化基础。除了地形地貌多样性（垂直落差近 6000 米）之外，季风气候影响着该地区的大部分区域，并提供了另一种有利的生态刺激，使得温带古北界生物群落得以全面发展。",
-                "en": "The remarkable ecological processes in the region, characterized by three parallel rivers, are the result of the combined effects of multiple factors, including geology, climate, and topography. Firstly, the region lies within an active topographic zone, thus possessing a rich rock matrix, ranging from igneous rocks (four types) to various sedimentary rocks, including limestone, sandstone, and conglomerate. Located at a plate collision point, the region exhibits extremely diverse topographic features, from canyons to karst landforms to glacier-covered peaks. Furthermore, the region served as a Pleistocene refuge and lies within a biogeographical convergence zone (where temperate and tropical climate characteristics meet), all of which contribute to its highly biodiverse evolutionary foundation. In addition to the diverse topography (a vertical drop of nearly 6000 meters), the monsoon climate influences much of the region, providing another favorable ecological stimulus that allowed the temperate Palearctic biomes to flourish."
-            },
-            {
-                "cn": "云南西北部是中国生物多样性最丰富的地区，也可能是地球上生物多样性最丰富的温带地区。该遗产地涵盖了横断山脉的大部分自然栖息地，而横断山脉是世界上现存最重要的生物多样性保护区域之一。遗产地地形和气候的显著多样性，以及其位于东亚、东南亚和青藏高原生物地理区域的交汇处，并作为动植物迁徙的南北走廊（尤其是在冰河时期），使其成为真正独特的景观，尽管经历了数千年的人类活动，仍然保留了高度的自然特征。作为众多珍稀濒危动植物最后的栖息地，该遗产地具有突出的普遍价值。",
-                "en": "Northwestern Yunnan is one of the most biodiverse regions in China, and possibly the most biodiverse temperate region on Earth. This heritage site encompasses much of the natural habitat of the Hengduan Mountains, one of the world&#39;s most important surviving biodiversity conservation areas. The site&#39;s remarkable topographical and climatic diversity, its location at the crossroads of East Asian, Southeast Asian, and Tibetan Plateau biogeographical regions, and its role as a north-south corridor for flora and fauna migration (especially during the Ice Age), make it a truly unique landscape that has retained a high degree of natural character despite thousands of years of human activity. As the last refuge for numerous rare and endangered plants and animals, this heritage site possesses outstanding universal value."
-            }
-        ],
-        "Description": {
-            "cn": "云南三江并流保护区位于中国云南省西北山区，是一个由15个保护区组成的自然序列遗产，分为8个保护区群。该遗产地拥有极其丰富的地貌景观，包括深邃的河谷、茂密的森林、巍峨的雪山、冰川、高山喀斯特地貌、红色的砂岩地貌（丹霞地貌）、以及绵延的湖泊和草甸。这片占地170万公顷的区域涵盖了亚洲三大河流——长江（金沙江）、湄公河和萨尔温江的上游部分河段，这三条河流大致平行，自北向南流淌，穿过陡峭的峡谷，部分河段深达3000米，两侧是海拔超过6000米的冰川覆盖的山峰。遗产地横跨横断山脉的大部分区域，横断山脉是从喜马拉雅山脉东端延伸至印度支那的主要弧形山脉。由于地处世界三大生物地理区域的交汇处，该遗产地位于中国生物多样性的中心地带，也可能蕴藏着丰富的生物多样性。世界温带地区生物多样性最丰富的地区。",
-            "en": "Located in the mountainous north-west of Yunnan Province in China, the Three Parallel Rivers of Yunnan Protected Areas is a natural serial property consisting of 15 protected areas, grouped into eight clusters. The Property contains an outstanding diversity of landscapes, such as deep-incised river gorges, luxuriant forests, towering snow-clad mountains, glaciers, and alpine karst, reddish sandstone landforms (Danxia）, lakes and meadows over vast vistas. The 1.7 million hectare site features sections of the upper reaches of three of the great rivers of Asia: the Yangtze (Jinsha), Mekong and Salween which run approximately parallel, north to south, through steep gorges which, in places, are 3,000 m deep and are bordered by glaciated peaks more than 6,000 m high. The property spans a large portion of the Hengduan Mountains, which is the major arc curving into Indochina from the eastern end of the Himalayas. Being located in the convergent regions of the three world's major biogeographic realms, the property is in an epicentre of Chinese biodiversity. It may also harbour the richest biodiversity among the temperate areas of the world."
-        },
-        "Number of Images": 0,
-        "Image URLs": []
     },
     "Wulingyuan_Scenic_and_Historic_Interest_Area": {
         "Name": {
