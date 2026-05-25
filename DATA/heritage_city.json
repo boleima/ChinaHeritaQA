@@ -1,0 +1,101 @@
+{
+    "湖北省": [
+        "Ancient_Building_Complex_in_the_Wudang_Mountains",
+        "Hubei_Shennongjia"
+    ],
+    "山西省": [
+        "Ancient_City_of_Ping_Yao",
+        "Mount_Wutai",
+        "Yungang_Grottoes"
+    ],
+    "安徽省": [
+        "Ancient_Villages_in_Southern_Anhui_Xidi_and_Hongcun",
+        "Mount_Huangshan"
+    ],
+    "浙江省": [
+        "Archaeological_Ruins_of_Liangzhu_City",
+        "West_Lake_Cultural_Landscape_of_Hangzhou"
+    ],
+    "北京市": [
+        "Beijing_Central_Axis_A_Building_Ensemble_Exhibiting_the_Ideal_Order_of_the_Chinese_Capital",
+        "Peking_Man_Site_at_Zhoukoudian",
+        "Summer_Palace_an_Imperial_Garden_in_Beijing",
+        "Temple_of_Heaven_an_Imperial_Sacrificial_Altar_in_Beijing"
+    ],
+    "青海省":[
+        "Qinghai_Hoh_Xil"
+    ],
+    "吉林省": [
+        "Capital_Cities_and_Tombs_of_the_Ancient_Koguryo_Kingdom"
+    ],
+    "江苏省": [
+        "Classical_Gardens_of_Suzhou"
+    ],
+    "云南省": [
+        "Cultural_Landscape_of_Honghe_Hani_Rice_Terraces",
+        "Cultural_Landscape_of_Old_Tea_Forests_of_the_Jingmai_Mountain_in_Pu_er",
+        "Old_Town_of_Lijiang"
+    ],
+    "重庆市": [
+        "Dazu_Rock_Carvings"
+    ],
+    "福建省": [
+        "FujianTulou",
+        "Kulangsu_a_Historic_International_Settlement",
+        "Quanzhou_Emporium_of_the_World_in_Song_Yuan_China",
+        "Mount_Wuyi"
+    ],
+    "澳门特别行政区": [
+        "Historic_Centre_of_Macao"
+    ],
+    "西藏自治区": [
+        "Historic_Ensemble_of_the_Potala_Palace_Lhasa"
+    ],
+    "河南省": [
+        "Historic_Monuments_of_Dengfeng_in_The_Centre_of_Heaven_and_Earth_",
+        "Longmen_Grottoes",
+        "Yin_Xu"
+    ],
+    "广东省": [
+        "Kaiping_Diaolou_and_Villages"
+    ],
+    "江西省": [
+        "Lushan_National_Park",
+        "Mount_Sanqingshan_National_Park"
+    ],
+    "陕西省": [
+        "Mausoleum_of_the_First_Qin_Emperor"
+    ],
+    "甘肃省": [
+        "Mogao_Caves"
+    ],
+    "四川省": [
+        "Mount_Qingcheng_and_the_Dujiangyan_Irrigation_System",
+        "Huanglong_Scenic_and_Historic_Interest_Area",
+        "Jiuzhaigou_Valley_Scenic_and_Historic_Interest_Area",
+        "Mount_Emei_Scenic_Area_including_Leshan_Giant_Buddha_Scenic_Area"
+    ],
+    "河北省": [
+        "Mountain_Resort_and_its_Outlying_Temples_Chengde"
+    ],
+    "内蒙古自治区": [
+        "Site_of_Xanadu",
+        "Badain_Jaran_Desert_Towers_of_Sand_and_Lakes"
+    ],
+    "山东省": [
+        "Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu",
+        "Mount_Taishan"
+    ],
+    "广西壮族自治区": [
+        "Zuojiang_Huashan_Rock_Art_Cultural_Landscape"
+    ],
+    "贵州省": [
+        "Fanjingshan"
+    ],
+    "湖南省": [
+        "Wulingyuan_Scenic_and_Historic_Interest_Area"
+    ],
+    "新疆维吾尔自治区": [
+        "Xinjiang_Tianshan"
+    ]
+}

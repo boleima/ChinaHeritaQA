@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Recurse -Path \"e:\\\\project\\\\ChinaHeritaQA\\\\DATA\\\\question_results\" | Where-Object { $_.Extension -eq \".xlsx\" } | Select-Object -ExpandProperty Name | Sort-Object)",
+      "PowerShell(Get-ChildItem -Recurse -Path \"e:\\\\project\\\\ChinaHeritaQA\\\\DATA\\\\question_results\" | Where-Object { $_.Name -match \"_q3_|_q4_\" } | Select-Object @{N='Model';E={$_.Directory.Name}}, Name | Sort-Object Model, Name | Format-Table -AutoSize)",
+      "Bash(ls -la \"C:/Users/HBen_/.claude/projects/e--project-ChinaHeritaQA/\")",
+      "Read(//c/Users/HBen_/.claude/projects/e--project-ChinaHeritaQA/**)",
+      "Bash(python)",
+      "Bash(python restore_qgen.py)",
+      "Bash(cd /d \"e:\\\\project\\\\ChinaHeritaQA\\\\Question_Gen\")",
+      "Bash(del \"q1_地点识别.py\" \"q2_图像检索.py\" \"q3_简介匹配.py\" \"q4_朝代判断.py\" \"q5_历史背景.py\" \"q6_主要功能.py\" \"q7_建筑用途.py\")",
+      "Bash(rmdir /s /q __pycache__)",
+      "Bash(python -c \"import json; d=json.load\\(open\\('DATA/heritage_meta_weibo_V1.json','r',encoding='utf-8'\\)\\); keys=list\\(d.keys\\(\\)\\); print\\('Number of sites:', len\\(keys\\)\\); print\\('Example keys:'\\); [print\\(' -', k\\) for k in keys[:5]]; k=keys[0]; print\\('Fields for', k, ':', list\\(d[k].keys\\(\\)\\)\\)\")",
+      "Bash(Test-Path \"e:\\\\project\\\\ChinaHeritaQA\\\\README.md\")",
+      "Bash(Get-ChildItem -Path \"e:\\\\project\\\\ChinaHeritaQA\" -Recurse -Depth 2)",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Sort-Object PSIsContainer -Descending)",
+      "Bash(Remove-Item -Path \"e:\\\\project\\\\ChinaHeritaQA\\\\utils\\\\data_analysis.py\" -Force)"
+    ]
+  }
+}

@@ -1,0 +1,871 @@
+{
+    "Palace_of_Versailles": {
+        "Name": {
+            "cn": "凡尔赛宫",
+            "en": "Palace of Versailles"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "曾为法国国王主要住所",
+            "en": "It was once the main residence of the King of France."
+        },
+        "Main_function": {
+            "cn": "皇家住所",
+            "en": "Royal Residence"
+        },
+        "BUilding_use": {
+            "cn": "法国国王的主要居所",
+            "en": "The main residence of the King of France"
+        },
+        "Brief_intro": {
+            "cn": "由多代艺术家建造装饰，成为欧洲皇家住所的典范。",
+            "en": "Built and decorated by generations of artists, the Palace of Versailles became a model for European royal residences."
+        },
+        "Description": {
+            "cn": "从路易十四到路易十六时期，凡尔赛宫一直是法国国王的主要住所。经过几代建筑师、雕塑家、装饰师和景观设计师的精心装点，它在一个多世纪的时间里为欧洲提供了理想的皇家住所典范。",
+            "en": "From the reigns of Louis XIV to Louis XVI, the Palace of Versailles served as the principal residence of the French monarchs. Through the meticulous work of generations of architects, sculptors, decorators, and landscape designers, it served as a model of ideal royal residence for Europe for over a century."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "10.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Historic_Centre_of_Avignon_Papal_Palace_Episcopal_Ensemble_and_Avignon_Bridge": {
+        "Name": {
+            "cn": "阿维尼翁历史中心",
+            "en": "Historic Centre of Avignon"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "14世纪教皇曾驻此地",
+            "en": "The Pope once resided here in the 14th century."
+        },
+        "Main_function": {
+            "cn": "教皇居住与宗教管理中心",
+            "en": "Papal Residence and Religious Administration Center"
+        },
+        "BUilding_use": {
+            "cn": "教皇宫为教皇驻地",
+            "en": "The Papal Palace is the residence of the Pope."
+        },
+        "Brief_intro": {
+            "cn": "14世纪阿维尼翁的哥特式建筑，与小皇宫和圣母大教堂共同组成重要建筑群，用于展现宗教地位。",
+            "en": "A Gothic architectural complex of the 14th century, the Palais des Papes forms an important ensemble together with the Petit Palais and Notre-Dame Cathedral, reflecting Avignon's religious prominence."
+        },
+        "Description": {
+            "cn": "14世纪，这座位于法国南部的城市曾是教皇的所在地。教皇宫（Palais des Papes）是一座外观庄严肃穆的堡垒，由西蒙·马蒂尼（Simone Martini）和马泰奥·乔瓦内蒂（Matteo Giovanetti）精心装饰，雄踞城中，俯瞰着周围的城墙以及横跨罗纳河的12世纪桥梁遗迹。在这座杰出的哥特式建筑之下，小皇宫（Petit Palais）和罗马式风格的圣母大教堂（Notre-Dame-des-Doms）共同构成了一组非凡的建筑群，见证了阿维尼翁在14世纪基督教欧洲所扮演的重要角色",
+            "en": "In the 14th century, this city in southern France was the seat of the papacy. The Palais des Papes, a majestic fortress, meticulously decorated by Simone Martini and Matteo Giovanetti, stands proudly in the city, overlooking the surrounding walls and the remains of a 12th-century bridge spanning the Rhône River. Beneath this outstanding Gothic building, the Petit Palais and the Romanesque Notre-Dame-des-Doms form a remarkable architectural complex, bearing witness to Avignon&#39;s significant role in 14th-century Christian Europe."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "10.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Banks_of_the_Seine": {
+        "Name": {
+            "cn": "巴黎塞纳河沿岸",
+            "en": "Banks of the Seine"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "巴黎城市发展的见证",
+            "en": "Witness to the development of Paris"
+        },
+        "Main_function": {
+            "cn": "展示巴黎历史与建筑",
+            "en": "Showcasing Parisian history and architecture"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "见证巴黎历史演变和建筑成就，对世界城市规划有深远影响。",
+            "en": "Bearing witness to the historical evolution and architectural achievements of Paris, the Banks of the Seine have had a profound and lasting influence on urban planning worldwide."
+        },
+        "Description": {
+            "cn": "从卢浮宫到埃菲尔铁塔，从协和广场到大皇宫和小皇宫，塞纳河畔尽收眼底，巴黎的演变和历史尽收眼底。巴黎圣母院和圣礼拜堂是建筑杰作，而奥斯曼设计的宽阔广场和林荫大道则影响了19世纪末和20世纪世界各地的城市规划。",
+            "en": "From the Louvre to the Eiffel Tower, from Place de la Concorde to the Grand Palais and Petit Palais, the banks of the Seine offer a panoramic view, showcasing the evolution and history of Paris. Notre Dame Cathedral and Sainte-Chapelle are architectural masterpieces, while Haussmann&#39;s wide squares and boulevards influenced urban planning around the world in the late 19th and 20th centuries."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "10.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Palace_and_Park_of_Fontainebleau": {
+        "Name": {
+            "cn": "枫丹白露宫",
+            "en": "Palace and Park of Fontainebleau"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "12世纪起为法国国王所用",
+            "en": "Used by French kings from the 12th century onwards"
+        },
+        "Main_function": {
+            "cn": "皇家狩猎行宫",
+            "en": "Royal Hunting Palace"
+        },
+        "BUilding_use": {
+            "cn": "供法国国王居住和狩猎",
+            "en": "For the residence and hunting of the King of France"
+        },
+        "Brief_intro": {
+            "cn": "16世纪由弗朗索瓦一世改造扩建，融合文艺复兴与法国艺术，周围为广阔公园。",
+            "en": "Transformed and enlarged by Francis I in the 16th century, the Palace of Fontainebleau blends Italian Renaissance art with the French artistic tradition, set within an expansive surrounding park."
+        },
+        "Description": {
+            "cn": "自12世纪起，法国国王便在此使用枫丹白露宫。这座中世纪皇家狩猎行宫坐落于法兰西岛广袤森林的中心地带，16世纪时，弗朗索瓦一世对其进行了改造、扩建和装饰，力图将其打造为一座“新罗马”。这座意大利风格的宫殿被广阔的公园环绕，融合了文艺复兴时期和法国的艺术传统",
+            "en": "Fontainebleau Palace has been used by French kings since the 12th century. This medieval royal hunting lodge is situated in the heart of the vast forests of Île-de-France. In the 16th century, Francis I renovated, expanded, and decorated it, striving to transform it into a &quot;new Rome.&quot; This Italianate-style palace is surrounded by expansive parks, blending Renaissance and French artistic traditions."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ]
+    },
+    "Archaeological_Areas_of_Pompei": {
+        "Name": {
+            "cn": "庞贝古城",
+            "en": "Archaeological Areas of Pompei"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "公元79年火山爆发毁灭庞贝等城",
+            "en": "A volcanic eruption in 79 AD destroyed Pompeii and other cities."
+        },
+        "Main_function": {
+            "cn": "遗址展示古罗马城市遗迹",
+            "en": "The ruins showcase the remains of an ancient Roman city."
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "因维苏威火山爆发而被掩埋的古罗马城市遗址，如今遗迹被发掘并对公众开放，展现古代城市面貌和生活。",
+            "en": "Buried by the eruption of Mount Vesuvius, this ancient Roman city site has been excavated and opened to the public, providing a vivid window into ancient urban life and the appearance of a Roman city."
+        },
+        "Description": {
+            "cn": "公元79年8月24日，维苏威火山爆发，吞噬了繁荣的罗马古城庞贝和赫库兰尼姆，以及周边众多富丽堂皇的别墅。自18世纪中叶以来，这些遗址陆续被发掘并向公众开放。庞贝这座商业古城规模宏大，与规模较小但保存更为完好的度假胜地赫库兰尼姆形成鲜明对比；而托雷安农齐亚塔的奥普隆蒂斯别墅内精美的壁画，则生动地展现了早期罗马帝国富裕阶层的奢华生活方式。",
+            "en": "On August 24, 79 AD, Mount Vesuvius erupted, engulfing the prosperous ancient Roman cities of Pompeii and Herculaneum, along with numerous opulent villas in the surrounding area. Since the mid-18th century, these sites have been excavated and opened to the public. The vast commercial city of Pompeii contrasts sharply with the smaller but better-preserved resort town of Herculaneum; while the exquisite frescoes in the Villa Oplontis at Torreannonzia vividly depict the luxurious lifestyle of the wealthy class in the early Roman Empire."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "10.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Historic_Centre_of_Rome": {
+        "Name": {
+            "cn": "罗马历史中心",
+            "en": "Historic Centre of Rome"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "罗马由罗穆卢斯和雷穆斯于公元前753年建立",
+            "en": "Rome was founded by Romulus and Remus in 753 BC."
+        },
+        "Main_function": {
+            "cn": "曾为罗马共和国和帝国的中心",
+            "en": "It was once the center of the Roman Republic and Empire."
+        },
+        "BUilding_use": {
+            "cn": "宗教和公共建筑用途",
+            "en": "Religious and public building uses"
+        },
+        "Brief_intro": {
+            "cn": "最初是罗马共和国的中心，后来成为罗马帝国的中心",
+            "en": "Originally the heart of the Roman Republic, Rome subsequently became the center of a vast empire whose influence extended across Europe and beyond."
+        },
+        "Description": {
+            "cn": "传说中，罗马由罗穆卢斯和雷穆斯于公元前753年建立，最初是罗马共和国的中心，后来成为罗马帝国的中心，并在公元4世纪成为基督教世界的中心。这片世界遗产地于1990年扩展至乌尔班八世城墙，其中包括一些古代主要古迹，例如罗马广场、奥古斯都陵墓、哈德良陵墓、万神殿、图拉真柱和马可·奥勒留柱，以及教皇统治时期罗马的宗教和公共建筑。",
+            "en": "According to legend, Rome was founded in 753 BC by Romulus and Remus. It was initially the center of the Roman Republic, later becoming the center of the Roman Empire, and in the 4th century AD, the center of the Christian world. This World Heritage Site was expanded to include the Urban VIII Walls in 1990 and encompasses major ancient monuments such as the Roman Forum, the Mausoleum of Augustus, the Mausoleum of Hadrian, the Pantheon, Trajan&#39;s Column, and Marcus Aurelius&#39; Column, as well as religious and public buildings from the papal period of Rome."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Historic_Centre_of_Florence": {
+        "Name": {
+            "cn": "佛罗伦萨历史中心",
+            "en": "Historic Centre of Florence"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "建于伊特鲁里亚人遗址之上，文艺复兴象征",
+            "en": "Built on the site of the Etruscan ruins, a symbol of the Renaissance"
+        },
+        "Main_function": {
+            "cn": "经济和文化中心",
+            "en": "Economic and cultural center"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "圣母百花大教堂是该地的艺术体现，拥有众多文艺复兴杰作。",
+            "en": "Home to the Cathedral of Santa Maria del Fiore and a wealth of Renaissance masterpieces, Florence is one of the world's great centers of artistic achievement."
+        },
+        "Description": {
+            "cn": "佛罗伦萨建于伊特鲁里亚人定居点的遗址之上，是文艺复兴的象征。在15至16世纪美第奇家族的统治下，佛罗伦萨崛起成为经济和文化上的翘楚。其600年来非凡的艺术成就，最显著的体现便是13世纪的圣母百花大教堂（Santa Maria del Fiore）、圣十字教堂、乌菲齐美术馆和皮蒂宫，这些都是乔托、布鲁内莱斯基、波提切利和米开朗基罗等艺术大师的杰作。",
+            "en": "Florence, built on the site of an Etruscan settlement, is a symbol of the Renaissance. Under the Medici family&#39;s rule in the 15th and 16th centuries, Florence rose to become a leading economic and cultural center. Its extraordinary artistic achievements over 600 years are most notably exemplified by the 13th-century Santa Maria del Fiore, the Basilica of Santa Croce, the Uffizi Gallery, and the Pitti Palace, all masterpieces by artists such as Giotto, Brunelleschi, Botticelli, and Michelangelo."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Venice_and_its_Lagoon": {
+        "Name": {
+            "cn": "威尼斯及其潟湖",
+            "en": "Venice and its Lagoon"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "始建于公元5世纪，10世纪成海上强国",
+            "en": "Founded in the 5th century AD, it became a maritime power in the 10th century."
+        },
+        "Main_function": {
+            "cn": "none",
+            "en": "none"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "由118个小岛组成，城市建筑汇集众多顶级艺术家作品。",
+            "en": "Built across 118 small islands, Venice's cityscape is an extraordinary gathering of works by some of history's greatest artists."
+        },
+        "Description": {
+            "cn": "威尼斯始建于公元5世纪，由118个小岛组成，并在10世纪成为海上强国。整座城市都是非凡的建筑杰作，即使是最小的建筑也包含着乔尔乔内、提香、丁托列托、委罗内塞等世界顶级艺术家的作品。",
+            "en": "Venice was founded in the 5th century AD and consists of 118 small islands. It became a maritime power in the 10th century. The entire city is a masterpiece of architecture, and even the smallest buildings contain works by world-class artists such as Giorgione, Titian, Tintoretto, and Veronese."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "10.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg"
+        ]
+    },
+    "Royal_Exhibition_Building_and_Carlton_Gardens": {
+        "Name": {
+            "cn": "皇家展览馆和卡尔顿花园",
+            "en": "Royal Exhibition Building and Carlton Gardens"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "为1880年和1888年国际博览会而建",
+            "en": "Built for the 1880 and 1888 International Expositions"
+        },
+        "Main_function": {
+            "cn": "举办国际博览会",
+            "en": "Hosting an international expo"
+        },
+        "BUilding_use": {
+            "cn": "展览各国工业成果",
+            "en": "Exhibition of industrial achievements from various countries"
+        },
+        "Brief_intro": {
+            "cn": "由约瑟夫·里德设计，融合多种建筑风格，是国际博览会运动的代表，曾举办多届大型博览会。",
+            "en": "Designed by Joseph Reed, the Royal Exhibition Building blends multiple architectural styles and stands as a prime representative of the international exposition movement, having hosted several major world exhibitions."
+        },
+        "Description": {
+            "cn": "皇家展览馆及其周围的卡尔顿花园是为1880年和1888年在墨尔本举办的两届盛大国际博览会而建。建筑和场地均由约瑟夫·里德设计。该建筑采用砖、木、钢和石板建造，融合了拜占庭式、罗马式、伦巴第式和意大利文艺复兴式等多种建筑风格。该建筑群是国际博览会运动的典型代表。在1851年至1915年间，共举办了50多届博览会，举办地点包括巴黎、纽约、维也纳、加尔各答、金斯顿（牙买加）和圣地亚哥（智利）。所有博览会都拥有一个共同的主题和目标：通过展示各国工业成果，展现物质和精神的进步。",
+            "en": "The Royal Exhibition Building and the surrounding Carlton Gardens were built for the two major international exhibitions held in Melbourne in 1880 and 1888. Both the buildings and the site were designed by Joseph Reed. Constructed of brick, wood, steel, and stone, the building blends Byzantine, Romanesque, Lombard, and Italian Renaissance architectural styles. This complex is a quintessential representation of the international exhibition movement. Between 1851 and 1915, more than 50 exhibitions were held in cities including Paris, New York, Vienna, Calcutta, Kingston (Jamaica), and Santiago (Chile). All the exhibitions shared a common theme and objective: to showcase material and spiritual progress through the display of national industrial achievements."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "Sydney_Opera_House": {
+        "Name": {
+            "cn": "悉尼歌剧院",
+            "en": "Sydney Opera House"
+        },
+        "Type": {
+            "cn": "文化",
+            "en": "culture"
+        },
+        "History_background": {
+            "cn": "1973年落成，标志新建筑理念诞生",
+            "en": "Completed in 1973, it marked the birth of a new architectural concept."
+        },
+        "Main_function": {
+            "cn": "举办各类演出活动",
+            "en": "Organize various performances and activities"
+        },
+        "BUilding_use": {
+            "cn": "主要用于演出和餐饮",
+            "en": "Mainly used for performances and catering"
+        },
+        "Brief_intro": {
+            "cn": "是20世纪伟大的建筑杰作，由三组拱形壳体构成，包含两个主要演出厅和一个餐厅。",
+            "en": "One of the great architectural masterpieces of the 20th century, the Sydney Opera House is defined by its three groups of interlocking vaulted shells housing two main performance halls and a restaurant."
+        },
+        "Description": {
+            "cn": "悉尼歌剧院于1973年落成，是20世纪伟大的建筑杰作，它融合了建筑形式和结构设计中多种多样的创意与创新。这座宏伟的城市雕塑坐落于伸入悉尼港的半岛顶端，周围环绕着壮丽的水景，对建筑产生了深远的影响。悉尼歌剧院由三组相互交错的拱形“壳体”构成，为两个主要演出厅和一个餐厅提供屋顶。这些壳体结构坐落于一个巨大的平台上，周围环绕着露台，这些露台可用作步行大厅。1957年，当悉尼歌剧院的设计方案被国际评审团授予丹麦建筑师约恩·乌松时，它标志着一种全新的建筑理念的诞生。",
+            "en": "Completed in 1973, the Sydney Opera House is a masterpiece of 20th-century architecture, blending diverse creativity and innovation in architectural form and structural design. This magnificent urban sculpture sits atop a peninsula jutting into Sydney Harbour, surrounded by stunning water views that have profoundly influenced architecture. The Sydney Opera House comprises three sets of interlocking arched &quot;shells&quot; that provide roofs for two main performance halls and a restaurant. These shell structures sit on a vast platform surrounded by terraces that serve as pedestrian lobbies. When the design for the Sydney Opera House was awarded to Danish architect Jørn Utzon by an international jury in 1957, it marked the birth of a completely new architectural concept."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "Pyrénées_Mont_Perdu": {
+        "Name": {
+            "cn": "皮尔尼山脉",
+            "en": "Pyrénées - Mont Perdu"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "保留着传统欧洲高地农业生活方式",
+            "en": "Preserving the traditional European highland agricultural lifestyle"
+        },
+        "Main_function": {
+            "cn": "展示传统农业生活方式",
+            "en": "Showcasing traditional agricultural lifestyles"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "拥有壮丽山地景观和典型地质地貌，是了解欧洲高地传统生活方式的窗口。",
+            "en": "Featuring magnificent mountain scenery and remarkable geological formations, Pyrénées-Mont Perdu offers an invaluable window into the traditional highland way of life of Europe."
+        },
+        "Description": {
+            "cn": "这片壮丽的山地景观横跨法国和西班牙的现代国界，以佩尔杜山（Mount Perdu）为中心，这座石灰岩山峰海拔3352米。该区域总面积达30639公顷，西班牙一侧拥有欧洲最大最深的两条峡谷，而法国一侧则分布着三个位于更为陡峭的北坡上的大型冰斗，这些都是典型的地质地貌。这里也是一片田园风光，反映了曾经在欧洲高地地区广泛存在的农业生活方式，而这种生活方式如今仅在比利牛斯山脉的这一区域得以保留。因此，通过其村庄、农场、田野、高地牧场和山路等景观，这里为我们了解昔日欧洲社会提供了独特的视角。",
+            "en": "This magnificent mountain landscape straddles the modern border between France and Spain, centered on Mount Perdu, a limestone peak reaching 3,352 meters. Spanning 30,639 hectares, the Spanish side boasts two of Europe&#39;s largest and deepest valleys, while the French side features three large cirques on a steeper northern slope – all typical geological formations. It is also a pastoral landscape reflecting the agricultural lifestyle once widespread in the European highlands, now preserved only in this part of the Pyrenees. Therefore, through its villages, farms, fields, highland pastures, and mountain trails, it offers a unique perspective on the society of old Europe."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "The_Dolomites": {
+        "Name": {
+            "cn": "多洛米蒂山",
+            "en": "The Dolomites"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Main_function": {
+            "cn": "自然景观观光与地质研究",
+            "en": "Natural landscape tourism and geological research"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "位于意大利北部，由18座高峰组成，拥有壮丽山地景观和丰富地貌，是国际地貌学重要地区。",
+            "en": "Located in northern Italy and composed of 18 peaks, the Dolomites offer spectacular mountain landscapes and diverse landforms of outstanding importance to international geomorphology."
+        },
+        "Description": {
+            "cn": "多洛米蒂山脉位于意大利北部阿尔卑斯山脉，由18座海拔超过3000米的山峰组成，总面积达141,903公顷。这里拥有世界上最壮丽的山地景观，包括垂直的峭壁、陡峭的悬崖以及密集分布的狭窄、深邃而绵长的山谷。该山脉由九个区域组成，呈现出丰富多样的壮丽地貌，具有重要的国际地貌学意义，其特征包括尖峰、岩柱和岩壁，此外还包含冰川地貌和喀斯特地貌。该地区地质活动频繁，滑坡、洪水和雪崩等地质过程十分活跃。此外，这里还拥有保存最完好的中生代碳酸盐岩台地系统之一，并保存有丰富的化石记录。",
+            "en": "The Dolomites, located in the northern Italian Alps, comprise 18 peaks exceeding 3,000 meters in altitude, covering a total area of 141,903 hectares. They boast some of the world&#39;s most magnificent mountain landscapes, including vertical cliffs, steep precipices, and a dense network of narrow, deep, and elongated valleys. The mountain range is divided into nine regions, exhibiting a rich and diverse array of stunning landforms of significant international geomorphological importance. These features include pinnacles, columns, and walls, as well as glacial and karst topography. The region is geologically active, with frequent landslides, floods, and avalanches. Furthermore, it possesses one of the best-preserved Mesozoic carbonate platform systems and a rich fossil record."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "Great_Barrier_Reef": {
+        "Name": {
+            "cn": "大堡礁",
+            "en": "Great Barrier Reef"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Main_function": {
+            "cn": "生物多样性保护与科学研究",
+            "en": "Biodiversity conservation and scientific research"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "全球最大的珊瑚礁群，生态多样性丰富。",
+            "en": "The world's largest coral reef system, the Great Barrier Reef is renowned for its extraordinary ecological diversity."
+        },
+        "Description": {
+            "cn": "大堡礁位于澳大利亚东北海岸，是一个生物多样性极其丰富、景色优美的地区。它拥有世界上最大的珊瑚礁群，包括400种珊瑚、1500种鱼类和4000种软体动物。此外，它也是儒艮（“海牛”）和绿海龟等濒危物种的栖息地，因此具有重要的科学价值。",
+            "en": "The Great Barrier Reef, located off the northeast coast of Australia, is an area of exceptional biodiversity and stunning scenery. It boasts the world&#39;s largest coral reef system, including 400 species of coral, 1,500 species of fish, and 4,000 species of mollusks. Furthermore, it is a habitat for endangered species such as dugongs (&quot;manatees&quot;) and green sea turtles, thus possessing significant scientific value."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Kakadu_National_Park": {
+        "Name": {
+            "cn": "卡卡杜国家公园",
+            "en": "Kakadu National Park"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "已有超过4万年的连续居住历史",
+            "en": "It has a continuous inhabited history of over 40,000 years."
+        },
+        "Main_function": {
+            "cn": "考古与民族学保护区",
+            "en": "Archaeological and Ethnological Reserve"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该保护区以洞穴壁画、岩刻和考古遗址著称，展示了史前至今原住民的生活和技能，并拥有丰富的生态系统和珍稀物种。",
+            "en": "Distinguished by its cave paintings, rock engravings, and archaeological sites, Kakadu National Park traces the life and skills of Aboriginal Australians from prehistoric times to the present, while also sustaining rich ecosystems and rare species."
+        },
+        "Description": {
+            "cn": "这片位于北领地的独特考古和民族学保护区，已有超过4万年的连续居住历史。洞穴壁画、岩刻和考古遗址记录了该地区居民的技能和生活方式，从史前时代的狩猎采集者到至今仍生活在那里的原住民，都留下了丰富的历史印记。这里拥有独特的生态系统，包括潮滩、洪泛区、低地和高原，为众多珍稀或特有动植物物种提供了栖息地。",
+            "en": "This unique archaeological and ethnological reserve in the Northern Territory boasts over 40,000 years of continuous inhabitation. Cave paintings, rock carvings, and archaeological sites document the skills and lifestyles of the region&#39;s inhabitants, from prehistoric hunter-gatherers to the indigenous peoples who still live there today, leaving a rich historical imprint. It possesses a unique ecosystem, including tidal flats, floodplains, lowlands, and plateaus, providing habitat for numerous rare and endemic plant and animal species."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ]
+    },
+    "Tasmanian_Wilderness": {
+        "Name": {
+            "cn": "塔斯马尼亚荒原",
+            "en": "Tasmanian Wilderness"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "有人类居住超过2万年",
+            "en": "Humans have lived here for over 20,000 years."
+        },
+        "Main_function": {
+            "cn": "保护温带雨林和生态环境",
+            "en": "Protect temperate rainforests and ecological environment"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该地区拥有峡谷和温带雨林，面积超100万公顷，是冰川作用遗迹丰富的公园和保护区。",
+            "en": "Covering more than one million hectares of gorges and temperate rainforest, the Tasmanian Wilderness encompasses parks and reserves that preserve an outstanding record of glacial activity."
+        },
+        "Description": {
+            "cn": "在曾遭受严重冰川作用的地区，这些公园和保护区拥有陡峭的峡谷，总面积超过100万公顷，构成了世界上最后一片温带雨林。在石灰岩洞穴中发现的遗迹证明，人类在该地区居住的历史已超过2万年。",
+            "en": "In areas severely affected by glaciation, these parks and reserves, with their steep canyons and covering over 1 million hectares, constitute the last temperate rainforest in the world. Remains found in limestone caves prove that humans have inhabited the region for over 20,000 years."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Greater_Blue_Mountains_Area": {
+        "Name": {
+            "cn": "蓝山国家公园",
+            "en": "Greater Blue Mountains Area"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "冈瓦纳大陆解体后桉树进化",
+            "en": "Eucalyptus Evolution After the Breakup of Gondwana"
+        },
+        "Main_function": {
+            "cn": "保护桉树林及生物多样性",
+            "en": "Protect eucalyptus forests and biodiversity"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该地由八个保护区组成，以丰富的桉树种类和多样的生态环境著称，是珍稀濒危物种的重要栖息地。",
+            "en": "Comprising eight protected areas, the Greater Blue Mountains region is distinguished by its exceptional diversity of eucalyptus species and varied ecological habitats, providing vital refuge for rare and threatened species."
+        },
+        "Description": {
+            "cn": "大蓝山地区占地103万公顷，由砂岩高原、陡坡和峡谷组成，主要植被为温带桉树林。该地区由八个保护区组成，因其展现了冈瓦纳大陆解体后澳大利亚大陆隔离状态下桉树的进化适应和多样化而闻名。大蓝山地区拥有91种桉树，其丰富的生境类型也使其桉树的结构和生态多样性得以充分体现。该地区拥有澳大利亚10%的维管植物，以及大量珍稀濒危物种，包括特有种和进化孑遗种，例如在高度受限的微生境中顽强生存的瓦勒迈松，这些物种在澳大利亚的生物多样性中占据了重要地位。",
+            "en": "The Greater Blue Mountains region, spanning 1.03 million hectares, comprises sandstone plateaus, steep slopes, and valleys, primarily covered by temperate eucalyptus forests. Comprising eight protected areas, the region is renowned for showcasing the evolutionary adaptations and diversity of eucalyptus trees in the isolated state of Australia after the breakup of Gondwana. Home to 91 eucalyptus species, the region&#39;s diverse habitat types fully demonstrate the structural and ecological diversity of its eucalyptus populations. It boasts 10% of Australia&#39;s vascular plants and a wealth of rare and endangered species, including endemic and relict species such as the Wolamay pine, which thrives in highly restricted microhabitats. These species play a vital role in Australia&#39;s biodiversity."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Ningaloo_Coast": {
+        "Name": {
+            "cn": "西澳宁格鲁礁",
+            "en": "Ningaloo Coast"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Main_function": {
+            "cn": "自然保护与生态旅游",
+            "en": "Nature conservation and ecotourism"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "拥有世界最长近岸珊瑚礁之一，涵盖海洋与陆地生态系统，是众多珍稀生物的栖息地。",
+            "en": "Home to one of the world's longest nearshore coral reefs, the Ningaloo Coast encompasses both marine and terrestrial ecosystems and provides habitat for numerous rare and threatened species."
+        },
+        "Description": {
+            "cn": "位于澳大利亚偏远西海岸的宁格鲁海岸，占地604,500公顷，涵盖海洋和陆地景观，其中包括世界上最长的近岸珊瑚礁之一。陆地上，这里拥有广阔的喀斯特地貌系统以及错综复杂的地下洞穴和水道网络。每年，鲸鲨都会聚集在宁格鲁海岸，这里也是众多海洋物种的家园，其中包括数量庞大的海龟。陆地部分则拥有丰富的地下水体，以及庞大的洞穴、水道和地下水流网络。这些水体孕育着多种珍稀物种，共同造就了宁格鲁海岸非凡的海洋和陆地生物多样性。",
+            "en": "Located on Australia&#39;s remote west coast, the Ningalo Coast covers 604,500 hectares and encompasses both marine and terrestrial landscapes, including one of the world&#39;s longest nearshore coral reefs. On land, it boasts a vast karst landscape and an intricate network of underground caves and waterways. Whale sharks congregate annually on the Ningalo Coast, which is also home to numerous marine species, including a large population of sea turtles. The terrestrial portion features abundant groundwater bodies and a vast network of caves, waterways, and underground currents. These bodies of water nurture a diverse array of rare species, collectively contributing to the Ningalo Coast&#39;s exceptional marine and terrestrial biodiversity."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg"
+        ]
+    },
+    "Swiss_Alps_Jungfrau_Aletsch": {
+        "Name": {
+            "cn": "圣女峰自然保护区",
+            "en": "Swiss Alps Jungfrau-Aletsch"
+        },
+        "Type": {
+            "cn": "自然",
+            "en": "nature"
+        },
+        "History_background": {
+            "cn": "2001年首次列入世界遗产名录",
+            "en": "First inscribed on the World Heritage List in 2001"
+        },
+        "Main_function": {
+            "cn": "生态保护与科学研究",
+            "en": "Ecological protection and scientific research"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该遗产地涵盖欧亚大陆最大冰川，生态系统丰富，是研究山脉、冰川与气候变化的重要区域。",
+            "en": "Encompassing the largest glacier in the Eurasian continent, the Jungfrau-Aletsch area supports diverse ecosystems and serves as a crucial region for the study of mountain formation, glaciology, and climate change."
+        },
+        "Description": {
+            "cn": "少女峰-阿莱奇-比奇峰自然世界遗产地（于2001年首次列入世界遗产名录）的扩建，使其东西两侧面积从53,900公顷增至82,400公顷。该遗产地是高阿尔卑斯山脉形成过程的杰出范例，涵盖了山脉冰川覆盖最广的区域以及欧亚大陆最大的冰川。这里拥有丰富的生态系统，特别是由于气候变化导致冰川退缩而形成的演替阶段。该遗产地不仅因其美景而具有杰出的普世价值，更因其蕴含的关于山脉和冰川形成以及持续气候变化的大量信息而备受关注。它在生态和生物过程（尤其是植物演替）的研究中也具有不可估量的价值。其壮丽的景观在欧洲艺术、文学、登山运动和高山旅游中都扮演着重要的角色。",
+            "en": "The expansion of the Jungfraujoch-Aletsch-Bichon World Heritage Site (first inscribed on the World Heritage List in 2001) increased its area on both the east and west sides from 53,900 hectares to 82,400 hectares. This site is an outstanding example of the formation process of the High Alps, encompassing the most extensive glacial coverage of the mountains and the largest glaciers in Eurasia. It boasts rich ecosystems, particularly the successive stages resulting from glacial retreat due to climate change. The site is valued not only for its exceptional universality due to its beauty but also for the wealth of information it contains about mountain and glacial formation and ongoing climate change. It is invaluable for the study of ecological and biological processes, especially plant succession. Its magnificent landscape has played a significant role in European art, literature, mountaineering, and alpine tourism."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "Lagoons_of_New_Caledonia": {
+        "Name": {
+            "cn": "新喀里多尼亚礁湖",
+            "en": "Lagoons of New Caledonia"
+        },
+        "Type": {
+            "cn": "混合",
+            "en": "mix"
+        },
+        "History_background": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Main_function": {
+            "cn": "保护珊瑚礁及相关生态系统",
+            "en": "Protect coral reefs and related ecosystems"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该保护区包括六个海洋群落，拥有丰富的珊瑚和鱼类物种，是世界三大最广阔珊瑚礁系统之一，为多种濒危海洋物种提供栖息地。",
+            "en": "Comprising six marine clusters, the lagoons of New Caledonia harbor rich coral and fish species, forming one of the world's three most extensive coral reef systems and providing critical habitat for numerous endangered marine species."
+        },
+        "Description": {
+            "cn": "该系列保护区包含六个海洋群落，代表了法属太平洋新喀里多尼亚群岛珊瑚礁及其相关生态系统的主要多样性，也是世界三大最广阔的珊瑚礁系统之一。这些泻湖拥有非凡的自然美景，珊瑚和鱼类物种极其丰富，栖息地类型从红树林到海草床连续分布，并拥有世界上最多样化的珊瑚礁结构。新喀里多尼亚的泻湖展现出完整的生态系统，大型捕食者种群数量健康，大型鱼类种类繁多。它们为许多标志性或濒危海洋物种提供了栖息地，例如海龟、鲸鱼和儒艮，其中儒艮的数量位居世界第三。",
+            "en": "This series of protected areas comprises six marine communities, representing the main diversity of coral reefs and related ecosystems in the French Pacific islands of New Caledonia, and is one of the world&#39;s three largest coral reef systems. These lagoons boast exceptional natural beauty, an extremely rich diversity of coral and fish species, a continuous range of habitat types from mangroves to seagrass beds, and the world&#39;s most diverse coral reef structures. The lagoons of New Caledonia exhibit complete ecosystems, with healthy populations of large predators and a wide variety of large fish. They provide habitat for many iconic or endangered marine species, such as turtles, whales, and dugongs, with the dugong population ranking third in the world."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Uluru-Kata_Tjuta_National_Park": {
+        "Name": {
+            "cn": "乌卢鲁-卡塔曲塔国家公园",
+            "en": "Uluru-Kata Tjuta National Park"
+        },
+        "Type": {
+            "cn": "混合",
+            "en": "mix"
+        },
+        "History_background": {
+            "cn": "世界最古老人类社会信仰体系组成部分",
+            "en": "Components of the world&#39;s oldest human belief system"
+        },
+        "Main_function": {
+            "cn": "自然保护与文化遗产展示",
+            "en": "Nature Conservation and Cultural Heritage Display"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "以壮观地质构造著称，包括乌鲁鲁巨岩和卡塔丘塔岩石圆顶，是阿南古原住民的传统信仰圣地。",
+            "en": "Renowned for its spectacular geological formations—including the monolith of Uluru and the rock domes of Kata Tjuta—the park holds profound spiritual significance as a traditional place of belief for the Anangu Aboriginal people."
+        },
+        "Description": {
+            "cn": "这个公园，原名乌鲁鲁（艾尔斯岩-奥尔加山）国家公园，以其壮观的地质构造而闻名，这些构造雄踞于澳大利亚中部广袤的红色沙质平原之上。乌鲁鲁是一块巨大的单体岩石，而位于乌鲁鲁西侧的卡塔丘塔则是两座岩石圆顶，它们构成了世界上最古老的人类社会之一的传统信仰体系的一部分。乌鲁鲁-卡塔丘塔的传统所有者是阿南古原住民。",
+            "en": "This park, formerly known as Uluru (Ayers Rock-Olga) National Park, is renowned for its spectacular geological formations that rise majestically from the vast red sandy plains of central Australia. Uluru is a massive monolith, while Kata Tjuta, located to its west, consists of two rocky domes that form part of the traditional belief system of one of the world&#39;s oldest human societies. The traditional owners of Uluru-Kata Tjuta are the Anangu Aboriginal people."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Gulf_of_Porto_Calanche_of_Piana_Gulf_of_Girolata_Scandola_Reserve": {
+        "Name": {
+            "cn": "科西嘉岛的自然与文化景观",
+            "en": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve"
+        },
+        "Type": {
+            "cn": "混合",
+            "en": "mix"
+        },
+        "History_background": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Main_function": {
+            "cn": "自然保护区，保护生态环境",
+            "en": "Nature reserves protect the ecological environment."
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该自然保护区位于科西嘉岛斯坎多拉半岛，拥有丰富动植物和独特地貌，是海鸟和海洋生物的重要栖息地。",
+            "en": "Located on the Scandola Peninsula of Corsica, this nature reserve features rich flora and fauna alongside distinctive landforms, and is an important habitat for seabirds and marine life."
+        },
+        "Description": {
+            "cn": "这片自然保护区是科西嘉岛区域自然公园的一部分，占据了斯坎多拉半岛——一块气势磅礴的斑状岩体。这里的植被是典型的灌木丛。海鸥、鸬鹚和海雕栖息于此。清澈的海水中星罗棋布着小岛和人迹罕至的洞穴，孕育着丰富的海洋生物。",
+            "en": "This nature reserve, part of the Corsica Regional Natural Park, occupies the Scandola Peninsula—a majestic porphyry rock formation. The vegetation is predominantly shrubbery. Seagulls, cormorants, and eagles inhabit the area. The clear waters are dotted with small islands and secluded caves, teeming with marine life."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ]
+    },
+    "Mont_Saint_Michel_and_its_Bay": {
+        "Name": {
+            "cn": "圣米歇尔山",
+            "en": "Mont-Saint-Michel and its Bay"
+        },
+        "Type": {
+            "cn": "混合",
+            "en": "mix"
+        },
+        "History_background": {
+            "cn": "修道院建于11至16世纪",
+            "en": "The monastery was built between the 11th and 16th centuries."
+        },
+        "Main_function": {
+            "cn": "宗教祭祀与修道",
+            "en": "Religious rituals and monastic practices"
+        },
+        "BUilding_use": {
+            "cn": "本笃会修道院",
+            "en": "Benedictine Monastery"
+        },
+        "Brief_intro": {
+            "cn": "诺曼底与布列塔尼间的岩石小岛上，一座供奉圣米迦勒的哥特式修道院，，是艺术与技术的杰作。",
+            "en": "Rising from a rocky island between Normandy and Brittany, the Gothic abbey dedicated to Saint Michael is a masterpiece of both artistry and technical achievement."
+        },
+        "Description": {
+            "cn": "在诺曼底和布列塔尼之间，一片广袤沙洲环绕着一座岩石小岛，这里潮汐汹涌，耸立着“西方奇迹”——一座哥特式本笃会修道院，供奉着大天使圣米迦勒，以及在其高墙掩映下发展起来的村庄。这座修道院建于11至16世纪，是技术和艺术上的杰作，它必须适应这片独特自然环境带来的种种挑战。",
+            "en": "Between Normandy and Brittany, a vast sandbar surrounds a rocky islet where the tides surge, and rises the “Wonder of the West”—a Gothic Benedictine monastery dedicated to the Archangel Michael, and the village that grew up behind its high walls. Built between the 11th and 16th centuries, this masterpiece of technology and art had to adapt to the challenges posed by its unique natural environment."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    "Gondwana_Rainforests_of_Australia": {
+        "Name": {
+            "cn": "澳大利亚冈瓦纳雨林",
+            "en": "Gondwana Rainforests of Australia"
+        },
+        "Type": {
+            "cn": "混合",
+            "en": "mix"
+        },
+        "History_background": {
+            "cn": "由多个保护区组成，沿大断崖分布",
+            "en": "Composed of multiple protected areas, distributed along the major cliff."
+        },
+        "Main_function": {
+            "cn": "科学研究与自然保护",
+            "en": "Scientific research and nature conservation"
+        },
+        "BUilding_use": {
+            "cn": "none",
+            "en": "none"
+        },
+        "Brief_intro": {
+            "cn": "该保护区由多个保护区组成，盾状火山喷发口周围展现的杰出地质特征以及大量珍稀濒危雨林物种，对科学研究和自然保护具有重要的国际意义。",
+            "en": "Comprising a series of protected areas, the Gondwana Rainforests of Australia display outstanding geological features associated with shield volcanic craters and harbor a large number of rare and threatened rainforest species, making them of major international significance for scientific research and nature conservation."
+        },
+        "Description": {
+            "cn": "该保护区由多个保护区组成，主要位于澳大利亚东海岸的大断崖沿线。盾状火山喷发口周围展现的杰出地质特征以及大量珍稀濒危雨林物种，对科学研究和自然保护具有重要的国际意义。",
+            "en": "This protected area comprises several reserves, primarily located along the Great Barrier Reef on Australia&#39;s east coast. The outstanding geological features surrounding the shield volcanic crater, along with a wealth of rare and endangered rainforest species, hold significant international importance for scientific research and conservation."
+        },
+        "Image URLs": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ]
+    }
+}
