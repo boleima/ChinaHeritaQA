@@ -66,7 +66,7 @@ ChinaHeritaQA/
 │   ├── heritage_brief_intro.json      # Brief descriptions (used by q3)
 │   ├── quesion_info/                  # Generated question JSONs (q1.json … q7.json)
 │   ├── question_results/              # Evaluation outputs (one .xlsx per model × type × language)
-│   └── Images/                        # sample Images
+│   └── Images/                        # sample images only (see Note below)
 │       ├── Image_data/<site_name>/    # Chinese heritage site images (Weibo)
 │       └── worlds_data/<site_name>/   # Non-Chinese heritage site images
 │
@@ -94,6 +94,10 @@ ChinaHeritaQA/
 │
 └── VLM_test_parallel.py               # Main evaluation entry (pipeline / sequential mode)
 ```
+
+> **Note on image data:** Example images are provided in `DATA/Images/` for reference.
+> Due to the large volume of visual data (over 7 GB), the full dataset will be released
+> on an external repository upon paper publication.
 
 ---
 
