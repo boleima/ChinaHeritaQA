@@ -96,7 +96,7 @@ ChinaHeritaQA/
 ```
 
 > **Note on image data:** Example images are provided in `DATA/Images/` for reference.
-> Due to the large volume of visual data (over 7 GB), the full dataset will be released
+> Due to the large volume of visual data (over 6 GB), the full dataset will be released
 > on an external repository upon paper publication.
 
 ---
@@ -296,5 +296,5 @@ Accuracy (%) across all question types. Random-guess baseline is 20% (5-choice).
 
 ## License
 
-The benchmark code is released under the **MIT License**.  
+The benchmark code is released under the **Creative Commons Attribution Non Commercial No Derivatives 4.0**.  
 Images are sourced from Weibo; copyright belongs to the original rights holders.
